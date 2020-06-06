@@ -71,6 +71,10 @@ Verify it's gone, `git remote -v`
 
 `git pull origin master`
 
+## Clean up Working Directory
+
+`git reset --hard`
+
 ## Check Status of repository
 
 `git status`
