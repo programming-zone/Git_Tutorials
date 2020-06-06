@@ -57,6 +57,8 @@ or
 
 ## Remove remote from local repository
 
+`git remote remove origin`
+
 `git remote rm destination`
 
 Verify it's gone, `git remote -v`
