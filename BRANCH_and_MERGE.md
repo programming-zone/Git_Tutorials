@@ -16,9 +16,13 @@ Example, `git checkout [branch]`
 
 switch to another branch and check it out into your working directory
 
+`git push origin --delete [branch]`
+
+delete a branch from remote repository
+
 `git branch -d [branch]`
 
-delete a branch from your repository
+delete a branch from local repository
 
 `git merge --no-ff [branch]`
 
