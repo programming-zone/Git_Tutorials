@@ -2,7 +2,7 @@
 
 Examining logs, diffs and object information
 
-`git log`
+`git log` or `git log --oneline` (short version)
 
 show the commit history for the currently active branch
 

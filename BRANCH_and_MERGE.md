@@ -12,7 +12,17 @@ create a new branch at the current commit
 
 `git checkout`
 
+Example, `git checkout [branch]`
+
 switch to another branch and check it out into your working directory
+
+`git branch -d [branch]`
+
+delete a branch from your repository
+
+`git merge --no-ff [branch]`
+
+merge the specified branch's history into remote repository (without fast forword)
 
 `git merge [branch]`
 

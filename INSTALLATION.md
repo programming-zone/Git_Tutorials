@@ -20,3 +20,12 @@ the official Git web site.
 ## Git for All Platforms
 
 http://git-scm.com
+
+## Download Git VCS
+Download git from its [website](https://git-scm.com/downloads).
+
+For Windows, [Download](https://git-scm.com/download/win)
+
+For Linux, [Download](https://git-scm.com/download/linux)
+or
+`sudo apt install git`

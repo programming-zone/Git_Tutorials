@@ -16,8 +16,12 @@ merge a remote branch into your current branch to bring it up to date
 
 `git push [alias] [branch]`
 
+Example, `git push origin master`
+
 Transmit local branch commits to the remote repository branch
 
 `git pull`
+
+Example, `git pull origin master`
 
 fetch and merge any commits from the tracking remote branch
