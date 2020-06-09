@@ -4,7 +4,7 @@ This Project for learning Git.
 ## About Git
 
 Git is the free and open source distributed version control system that's responsible for everything GitHub
-related that happens locally on your computer. 
+related that happens locally on your computer.
 
 - Created by Linus Torvalds,creator of Linux, in 2005.
   - Came out of Linux development community
@@ -15,5 +15,9 @@ related that happens locally on your computer.
   - Fully distributed
   - Able to handle large projects efficiently
   - (A "git" is a cranky old man. Linus meant himself.)
+
+## More Tutorials
+
+There are more tutorials written in this repo related to `git`.
 
 ## End
