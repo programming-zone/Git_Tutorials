@@ -60,3 +60,83 @@ Simple:
 
 - `:w` to write the file.
 - ZZ to quit vim. (as `:q!`)
+
+
+### further
+
+**text objects and motions**
+
+w - words
+
+s - sentences
+
+p - paragraphs
+
+t -tags
+
+a - all
+
+i - in
+
+t - 'til
+
+f - find forward
+
+F - find backward
+
+**Commands**
+
+d - delete (also cut)
+
+c - change (delete, then place in insert mode )
+
+y - yank (copy)
+
+v - visually select
+
+Usages : [Commands] [text objects]
+
+example:
+
+`diw` delete in word
+
+`caw` change all word
+
+`yi)` yank all text in parentheses
+
+`di[` delete in bracket
+
+`dt ` delete until space
+
+or `dt.` delete until dot
+
+`va'` select inside ''
+
+`.` repeat last Command
+
+More Commands:
+
+- dd/yy - delete/yank the current line.
+- D/C - delete/change until end of the line.
+- ^/$ - move to the beginning/end of the line.
+- I/A - move to the beginning/end of the line and insert.
+- o/O - insert new line above/below current line and insert.
+- p/P - paste below/above the line.
+- `:earlier 2m` will be your file as 2 min before.
+
+
+**Macro**
+
+- q{register} (e.g. qw)
+- (do things)
+- q
+
+play a Macro
+
+- @{register} (e.g. @W)
+
+
+**marker**
+
+- m{register} to mark the position.
+- `{register} to go to the mark.
