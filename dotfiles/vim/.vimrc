@@ -34,6 +34,12 @@ Plug 'othree/yajs.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 
+" Syntax Checker
+Plug 'scrooloose/syntastic'
+
+" Git tool
+Plug 'tpope/vim-fugitive'
+
 " post install (yarn install | npm install) then load plugin only for editing supported files
 Plug 'prettier/vim-prettier', {
   \ 'do': 'npm install',
