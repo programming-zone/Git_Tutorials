@@ -1,0 +1,10 @@
+[user]
+	name = "Full Name"
+	email = "email associated with github or any like that"
+	signingkey = "gpg key if any or remove this line"
+[color]
+	ui = true
+	status = auto
+	branch = auto
+[cola]
+	spellcheck = false
