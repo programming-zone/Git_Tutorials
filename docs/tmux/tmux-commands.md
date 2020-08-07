@@ -27,6 +27,7 @@
 ctrl + b then type
 
 Resize window:
+
 `:resize-pane -D [cell_size]` (Resizes the current pane down by 1 cell)
 
 `:resize-pane -U [cell_size]` (Resizes the current pane upward by 1 cell)
