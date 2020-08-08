@@ -1,0 +1,4115 @@
+: 1594358733:0;exit
+: 1594358754:0;cd  Works
+: 1594358754:0;ls
+: 1594358763:0;code go/gin-demo
+: 1594358817:0;tree go/gin-demo
+: 1594358841:0;go run main.go
+: 1594359075:0;git remote add origin git@github.com:mrinjamul/gin-demo.git\
+git push -u origin master
+: 1594359124:0;cd go/project-demo1
+: 1594359132:0;git remote remove origin
+: 1594359135:0;git remote -v
+: 1594359137:0;exit
+: 1594361116:0;cd go
+: 1594361117:0;ls
+: 1594361122:0;tree go-getting-started
+: 1594361442:0;go run main.go
+: 1594362043:0;cat golang-tutorials/Basics/more-types/array.go
+: 1594362387:0;git stash 
+: 1594362311:136;go run main.go
+: 1594362448:0;go run main.go
+: 1594362606:0;cd golang-tutorials
+: 1594362626:0;cat Basics/flow-control/if-and-else.go
+: 1594362656:0;go run main.go
+: 1594363891:0;git reset --hard
+: 1594363916:0;go run main.go
+: 1594364319:0;tree
+: 1594364347:0;exit
+: 1594364375:0;code go/go-getting-started
+: 1594364671:0;cd go/gin-demo
+: 1594364679:0;go run main.go
+: 1594364717:0;code .
+: 1594364922:0;go run main.go
+: 1594373562:0;ls ./Downloads/slack-desktop-4.7.0-amd64.deb
+: 1594373570:0;APT install  ./Downloads/slack-desktop-4.7.0-amd64.deb
+: 1594373640:0;APT install  postgresql-client
+: 1594373689:0;mv ./Downloads/slack-desktop-4.7.0-amd64.deb /mnt/Storage/Software
+: 1594374316:0;go run main.go
+: 1594374883:0;ifconfig
+: 1594374906:0;cat VSCode_extensions
+: 1594375071:0;go run main.go
+: 1594375628:0;cd ../golang-tutorials
+: 1594375638:0;mkdir test
+: 1594375649:0;vim test/array.go
+: 1594375671:0;cat Basics/more-types/array.go
+: 1594375703:0;vim test/array.go
+: 1594375778:0;go run test/array.go
+: 1594375785:0;vim test/array.go
+: 1594375820:0;go run test/array.go
+: 1594375828:0;vim test/array.go
+: 1594375884:0;go run test/array.go
+: 1594375905:0;git reset --hard
+: 1594375951:0;go run main.go
+: 1594376675:0;ls
+: 1594376692:0;mv VSCode_extensions /mnt/Storage/Software/VSCode
+: 1594377641:0;cat .bin/GitServer
+: 1594378243:0;ls
+: 1594378248:0;cd temp
+: 1594378286:0;clone-it git@104.45.134.47/home/git/mrinjamul/hello-world.git
+: 1594378291:0;clone-it git@104.45.134.47:/home/git/mrinjamul/hello-world.git
+: 1594378300:0;ls
+: 1594378303:0;cd hello-world
+: 1594378303:0;ls
+: 1594378305:0;git log
+: 1594378329:0;cd ..
+: 1594378336:0;rm -rf hello-world
+: 1594378336:0;ls
+: 1594378349:0;ssh git@104.45.134.47
+: 1594379076:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594379888:0;go run main.go 
+: 1594382223:0;go run main.go
+: 1594382386:0;clear
+: 1594382388:0;pwd
+: 1594382389:0;ls
+: 1594382395:0;clear
+: 1594382396:0;ls
+: 1594382401:0;pwd
+: 1594382404:0;clear
+: 1594382407:0;pwd
+: 1594382409:0;ls
+: 1594382412:0;clear
+: 1594382598:0;go run main.go
+: 1594383709:0;ssh git@104.45.134.47
+: 1594384064:0;ls
+: 1594384070:0;cd ~/Works/Git/
+: 1594384071:0;ls
+: 1594384078:0;rm -rf hello-world
+: 1594384097:0;exit
+: 1594384103:0;cd ~/Works/Git
+: 1594384119:0;clone-it git@104.45.134.47:/srv/mrinjamul/hello-world.git
+: 1594384129:0;cd hello-world
+: 1594384129:0;ls
+: 1594384209:0;GitServer
+: 1594384851:0;exit
+: 1594384857:0;ls
+: 1594384870:0;git status
+: 1594385194:0;APT install  ./Downloads/code_1.47.0-1594283939_amd64.deb \
+: 1594385195:40;APT install  ./Downloads/code_1.47.0-1594283939_amd64.deb 
+: 1594385253:0;mv ~/Downloads/code_1.47.0-1594283939_amd64.deb /mnt/Storage/Software/VSCode
+: 1594385306:0;ls
+: 1594389830:0;cd ~/Works/Deno
+: 1594389831:0;ls
+: 1594389833:0;cd others
+: 1594389833:0;ls
+: 1594389845:0;cd ~/Works/heroku
+: 1594389845:0;ls
+: 1594389851:0;cd heroku-deno
+: 1594389852:0;ls
+: 1594389857:0;cat main.ts
+: 1594389865:0;ls -la
+: 1594389868:0;cat Procfile
+: 1594389884:0;cat main.ts
+: 1594390009:0;deno --version
+: 1594390020:0;deno upgrade
+: 1594390122:0;ls
+: 1594390127:0;du -lh .
+: 1594390140:0;ls
+: 1594390263:0;deno upgrade
+: 1594390269:0;deno --version
+: 1594390278:0;exit
+: 1594393476:0;ls ~/go/bin
+: 1594393505:0;gopls
+: 1594396332:0;vim ~/temp/ideas-backend.txt
+: 1594396341:0;ls
+: 1594396465:0;APT install postgresql
+: 1594396915:0;sudo -u postgres createuser injamul -s
+: 1594396923:0;sudo -u postgres psql
+: 1594396972:0;sudo -u postgres createuser injamul -sls
+: 1594396975:0;ls
+: 1594396996:0;psql 
+: 1594397008:0;sudo -u postgres psql
+: 1594397158:0;git instaweb --httpd=apache
+: 1594397161:0;git instaweb --httpd=apache2
+: 1594397484:0;git instaweb --httpd=apache2 --stop
+: 1594397769:0;cd ~
+: 1594397773:0;GitServer
+: 1594397814:0;cd Works/Git
+: 1594397814:0;ls
+: 1594397821:0;mkdir MySERVER
+: 1594397822:0;l
+: 1594397826:0;smv hello-world MySERVER
+: 1594397827:0;ls
+: 1594397832:0;git clone git clone git://git.kernel.org/pub/scm/git/git.git
+: 1594397836:0;git clone git://git.kernel.org/pub/scm/git/git.git
+: 1594398027:0;psql 
+: 1594398036:0;psql -u injamul
+: 1594398047:0;sudo service postgresql restart
+: 1594398057:0;psql 
+: 1594398078:0;psql -d injamuldb -U injamul
+: 1594398426:0;GitServer
+: 1594398460:0;sudo -u postgres psql
+: 1594398491:0;exit
+: 1594398494:0;GitServer
+: 1594400215:0;echo ssh git@104.45.134.47
+: 1594400274:0;GitServer
+: 1594400565:0;git clone git://git.kernel.org/pub/scm/git/git.git
+: 1594400886:0;exit
+: 1594400888:0;ll
+: 1594400908:0;GitServer
+: 1594440145:0;psql -d injamuldb -U postgres
+: 1594440346:0;psql -d injamuldb -U injamul
+: 1594440412:0;tree
+: 1594440461:0;psql -d injamuldb -U injamul
+: 1594440494:0;psql -d postres -U injamul
+: 1594440499:0;psql -d postgres -U injamul
+: 1594440803:0;APT install ./dbeaver-ce_7.1.2_amd64.deb
+: 1594440900:0;APT update
+: 1594440913:0;APT upgrade
+: 1594440921:0;APT autoremove
+: 1594440927:0;APT autoclean
+: 1594440939:0;APT -s clean
+: 1594441457:0;GitServer
+: 1594444266:0;exit
+: 1594444289:0;cd Works/go/gin-demo
+: 1594444290:0;ls
+: 1594444361:0;code .
+: 1594444791:0;snap list
+: 1594444810:0;sudo apt-get install skypeforlinux
+: 1594445086:0;sudo apt-get update
+: 1594445103:0;sudo apt-get upgrade
+: 1594445123:0;ls
+: 1594445612:0;docker push mrinjamul/docker-demo:tagname
+: 1594445638:0;cd Works
+: 1594445639:0;s
+: 1594445640:0;ls
+: 1594446086:0;docker --version
+: 1594446098:0;mkdir Docker
+: 1594446101:0;cd Docker
+: 1594446112:0;docker run hello-world\
+
+: 1594446125:0;docker ps --all
+: 1594446155:0;git clone https://github.com/dockersamples/node-bulletin-board
+: 1594446167:0;cd node-bulletin-board/bulletin-board-app
+: 1594446168:0;ls
+: 1594446183:0;docker build --tag bulletinboard:1.0 .
+: 1594446413:0;docker push mrinjamul/node-bulletin-board:bulletinboard:1.0
+: 1594446420:0;docker push mrinjamul/node-bulletin-board:bulletinboard
+: 1594446428:0;docker push mrinjamul/node-bulletin-board:1.0
+: 1594446453:0;docker push mrinjamul/node-bulletin-board:tagname
+: 1594446471:0;docker push mrinjamul/node-bulletin-board:bulletinboard:1.0
+: 1594446475:0;docker push mrinjamul/node-bulletin-board:bulletinboard
+: 1594446483:0;ls
+: 1594446490:0;cat Dockerfile
+: 1594446497:0;ls
+: 1594446514:0;docker push mrinjamul/node-bulletin-board:1.0
+: 1594446612:0;docker push mrinjamul/node-bulletin-board:bulletinboard:1.0
+: 1594446693:0;ls
+: 1594446709:0;docker run --publish 8000:8080 --detach --name bb bulletinboard:1.0
+: 1594446855:0;docker rm --force bb
+: 1594446909:0;docker login
+: 1594446992:0;docker tag bulletinboard:1.0 mrinjamul/bulletinboard:1.0\
+
+: 1594447064:0;docker push mrinjamul/bulletinboard:1.0
+: 1594447148:0;code .
+: 1594447156:0;exit
+: 1594447244:0;cd /usr/src/app
+: 1594457466:0;CD ~/Works/Gitlab
+: 1594457471:0;cd ~/Works/Gitlab
+: 1594457472:0;ls
+: 1594457476:0;clone-it git@gitlab.com:mrasif-rails/RockRooms.git
+: 1594457488:0;cd RockRooms
+: 1594457489:0;ls
+: 1594457539:0;sudo apt-get install docker-compose
+: 1594457605:0;docker-compose up
+: 1594457913:0;ls
+: 1594457917:0;cd ..
+: 1594457917:0;l
+: 1594457920:0;ls
+: 1594457922:0;cd ..
+: 1594457923:0;l
+: 1594457928:0;ls
+: 1594457930:0;cd node-bulletin-board
+: 1594457930:0;lls
+: 1594457932:0;ls
+: 1594457938:0;cd bulletin-board-app
+: 1594457939:0;ls
+: 1594457953:0;cat LICENSE
+: 1594457958:0;cat ../LICENSE
+: 1594458128:0;ls
+: 1594458133:0;tree
+: 1594458145:0;git log
+: 1594458149:0;cd ..
+: 1594458150:0;git log
+: 1594458160:0;cd bulletin-board-app
+: 1594458161:0;git log
+: 1594458527:0;nano ~/temp/docker-tut.txt
+: 1594459446:0;docker-compose ps
+: 1594459455:0;docker-compose down
+: 1594459461:0;docker-compose up
+: 1594459496:0;ls
+: 1594459505:0;vim docker-compose.yml
+: 1594459533:0;docker-compose up
+: 1594459981:0;nano ~/temp/docker-tut.txt
+: 1594467130:0;docker-compose up
+: 1594468064:0;cat docker-entrypoint.sh
+: 1594468383:0;docker-compose ps
+: 1594468628:0;tree
+: 1594469219:0;cat *.sh
+: 1594470276:0;exit
+: 1594470286:0;code .
+: 1594470620:0;ssh ip172-18-0-9-bs4r1fboudsg00d9ispg@direct.labs.play-with-docker.com
+: 1594472134:0;git status
+: 1594472150:0;go get github.com/astaxie/beego/orm
+: 1594472267:0;go get github.com/go-sql-driver/mysql
+: 1594472848:0;go build
+: 1594472972:0;clear
+: 1594473239:0;mysql -u root -p
+: 1594473304:0;go build
+: 1594473313:0;go run main.go
+: 1594473617:0;clear
+: 1594473618:0;ls
+: 1594473621:0;clear
+: 1594473622:0;ls
+: 1594473624:0;clear
+: 1594473625:0;ls
+: 1594473627:0;clear
+: 1594473628:0;ls
+: 1594473630:0;clear
+: 1594473631:0;ls
+: 1594473634:0;clear
+: 1594473647:0;exit
+: 1594473848:0;go run main.go
+: 1594473975:0;mysql -u root -p
+: 1594474173:0;go run main.go
+: 1594474365:0;go build
+: 1594474397:0;go run main.go
+: 1594475269:0;exit
+: 1594475496:0;sudo service network-manager restart
+: 1594475543:0;cd ../others
+: 1594475544:0;ls
+: 1594475552:0;unzip beegodemo.zip
+: 1594475554:0;ls
+: 1594475560:0;mv beegodemo ..
+: 1594475563:0;cd ..
+: 1594475563:0;ls
+: 1594475566:0;cd beegodemo
+: 1594475568:0;l
+: 1594475576:0;ls
+: 1594475577:0;clear
+: 1594475585:0;cat db/Config.go
+: 1594475784:0;go build
+: 1594475790:0;go run main.go
+: 1594476343:0;ls
+: 1594476350:0;cd controllers
+: 1594476351:0;ls
+: 1594476353:0;cat ArticleController.go
+: 1594476423:0;ls
+: 1594476425:0;cd ..
+: 1594476426:0;ls
+: 1594476429:0;cd repo
+: 1594476430:0;ls
+: 1594476432:0;cat ArticleRepo.go
+: 1594476637:0;go run main.go
+: 1594476697:0;ls
+: 1594476701:0;git add .
+: 1594476720:0;git status -p
+: 1594476730:0;git status
+: 1594476801:0;git commit -S -m "Add: add Database (MySQL)"
+: 1594476808:0;git push origin master
+: 1594476911:0;ls
+: 1594476920:0;git log 
+: 1594476927:0;git log --oneline
+: 1594476967:0;git tag -a v1.0 -m "First Release" e1a4be6
+: 1594476973:0;git log --oneline
+: 1594476999:0;git push origin --tags
+: 1594477234:0;git reset --hard
+: 1594477247:0;cd ..
+: 1594477248:0;ls
+: 1594477252:0;cd ..
+: 1594477253:0;ls
+: 1594477259:0;ls -la
+: 1594477314:0;chmod -R o -x golang.org
+: 1594477319:0;sudo chmod -R o -x golang.org
+: 1594477333:0;sudo chmod -R -o -x golang.org
+: 1594477342:0;sudo chmod -R 755 golang.org
+: 1594477343:0;ls
+: 1594477349:0;exit
+: 1594477375:0;git pull origin master
+: 1594477484:0;docker-compose up
+: 1594481588:0;cd Works/go/gin-demo
+: 1594481591:0;code .
+: 1594482310:0;go run main.go
+: 1594482463:0;git add .
+: 1594482467:0;git status
+: 1594482493:0;git commit -S -m "fix: Detail"
+: 1594482498:0;exit
+: 1594484514:0;go run main.go
+: 1594484605:0;git add-p
+: 1594484607:0;git add -p
+: 1594484681:0;git add .
+: 1594484749:0;git commit -S -m "fix: update Delete opration"
+: 1594484774:0;go run main.go
+: 1594490503:0;git commit -S -m "fix: update Patch opration"
+: 1594519049:0;ps -u injamul
+: 1594519060:0;kill 57446
+: 1594519066:0;exit
+: 1594541355:0;ls
+: 1594541360:0;git remote -v
+: 1594541365:0;cd ..
+: 1594541365:0;l
+: 1594541372:0;mv personal-website Others
+: 1594541373:0;ls
+: 1594541379:0;mv responsive-navbar Others
+: 1594541380:0;ls
+: 1594541385:0;cd website
+: 1594541389:0;git remote -v
+: 1594541392:0;cd ..
+: 1594541396:0;mv website mrinjamul
+: 1594541397:0;ls
+: 1594541402:0;cd Github-projects
+: 1594541403:0;ks
+: 1594541404:0;s
+: 1594541405:0;ls
+: 1594541411:0;cd ..
+: 1594541412:0;ls
+: 1594541417:0;mv Github-projects Others
+: 1594541417:0;ls
+: 1594541533:0;cd ~/Works
+: 1594541969:0;cd Github/mrinjamul
+: 1594541971:0;git@github.com:mrinjamul/mrinjamul.git
+: 1594541979:0;clone-it git@github.com:mrinjamul/mrinjamul.git
+: 1594542021:0;cat mrinjamul/README.md
+: 1594545293:0;cd ../Others
+: 1594545301:0;git clone git@github.com:HackAveiro/hackaveiro.github.io.git
+: 1594547792:0;git clone git@github.com:octocat/Spoon-Knife.git
+: 1594547852:0;cd Spoon-Knife
+: 1594547856:0;serve -s 
+: 1594547897:0;cat index.html
+: 1594547907:0;ls
+: 1594547914:0;cat styles.css
+: 1594547927:0;cd ..
+: 1594547932:0;rm -rf Spoon-Knife
+: 1594547933:0;ls
+: 1594547983:0;cd ~/Works
+: 1594547984:0;ls
+: 1594548578:0;GitServer
+: 1594548814:0;mplayer -really-quiet -vo caca fireplace.mp4
+: 1594549169:0;GitServer
+: 1594549252:0;Dragon
+: 1594550374:0;ping google.com
+: 1594550490:0;Dragon
+: 1594551095:0;ping google.com
+: 1594553119:0;cd ReactJs
+: 1594553124:0;cd react-test
+: 1594553126:0;ls
+: 1594553131:0;git status
+: 1594553140:0;git checkout master
+: 1594553148:0;git status
+: 1594553153:0;git log
+: 1594553162:0;git branch -a
+: 1594553169:0;git checkout test
+: 1594553171:0;ls
+: 1594553177:0;git push origin master
+: 1594553288:0;code .
+: 1594553307:0;npm start
+: 1594553534:0;cat ~/temp/react-shortcut.txt
+: 1594557228:0;htop
+: 1594558608:0;GitServer
+: 1594558621:0;Dragon
+: 1594563346:0;cd Works
+: 1594563350:0;cd Works/ReactJs
+: 1594563364:0;code react-test
+: 1594563432:0;npm start
+: 1594563730:0;cd ../Gitlab/mrasif.in
+: 1594563737:0;git pull origin master
+: 1594563742:0;code .
+: 1594563821:0;sudo service network-manager restart
+: 1594564012:0;ls
+: 1594564133:0;npm start
+: 1594567923:0;git push origin master
+: 1594567945:0;git pull origin master
+: 1594568072:0;git add -p
+: 1594568082:0;git add .
+: 1594568087:0;git diff
+: 1594568099:0;git add -p
+: 1594568137:0;git add .
+: 1594568197:0;git commit -S -m "fix: toggle Menu"
+: 1594568205:0;git push origin m
+: 1594568208:0;git push origin react-dev
+: 1594573853:0;cd /mnt/Storage/Multimedia/Videos
+: 1594573854:0;ls
+: 1594573858:0;cd .hidden
+: 1594573859:0;ls
+: 1594573988:0;exit
+: 1594573989:0;ls
+: 1594574011:0;git push origin react-dev
+: 1594574556:0;cd ../../Github
+: 1594574556:0;ls
+: 1594574566:0;mkdir linuxuserin
+: 1594574568:0;ls
+: 1594574786:0;cd linuxuserin
+: 1594574787:0;ls
+: 1594574791:0;git clone https://github.com/linuxuserin/linuxuserin.github.io
+: 1594574798:0;https://github.com/linuxuserin/linuxuserin
+: 1594574807:0;clone-it https://github.com/linuxuserin/linuxuserin
+: 1594574817:0;clone-it https://github.com/linuxuserin/vimrc
+: 1594574839:0;ls
+: 1594574842:0;cd vimrc
+: 1594574842:0;l
+: 1594574847:0;tree
+: 1594574855:0;tree -help
+: 1594574857:0;tree -a
+: 1594574887:0;cat .vimrc
+: 1594574897:0;cd ..
+: 1594574897:0;ls
+: 1594575000:0;code linuxuserin.github.io
+: 1594575343:0;ls
+: 1594575348:0;cd Thinkful
+: 1594575349:0;ls
+: 1594575354:0;cd AboutMe
+: 1594575356:0;ls
+: 1594575364:0;cat index.html
+: 1594575380:0;serve -s
+: 1594575414:0;cd ../AboutMe.old
+: 1594575415:0;serve -s
+: 1594575431:0;ls
+: 1594575434:0;cd ..
+: 1594575434:0;l
+: 1594575547:0;git push origin develop
+: 1594575646:0;code linuxuserin.github.io
+: 1594575850:0;git remote -v
+: 1594575870:0;exit
+: 1594575877:0;ls
+: 1594575880:0;cd linuxuserin
+: 1594575885:0;cd ../linuxuserin.github.io
+: 1594575890:0;git push origin develop
+: 1594575923:0;cat AboutMe/normalize.css
+: 1594575951:0;cp normalize.css ../Github/linuxuserin/linuxuserin.github.io/css
+: 1594575959:0;cp normalize.css ../Github/linuxuserin/linuxuserin.github.io/
+: 1594575974:0;cp AboutMe/normalize.css ../Github/linuxuserin/linuxuserin.github.io/
+: 1594576014:0;cat AboutMe/index.html
+: 1594576141:0;cd ../Github/ProgrammingZone/Git_Tutorials
+: 1594576142:0;ls
+: 1594576170:0;nano GIT_PUSH_FROM_DIFFERENT_SSH.md
+: 1594576233:0;git add .
+: 1594576256:0;git commit -m "Add: new Content"
+: 1594576259:0;git push origin master
+: 1594576377:0;serve -s
+: 1594576410:0;ssh-keygen -t rsa -b 4096
+: 1594576468:0;ssh-keygen -t rsa -b 4096 -C "unknownuserid2018@gmail.com"
+: 1594576519:0;ssh-keygen --help
+: 1594576616:0;ssh-keygen -t rsa -b 4096 -C "unknownuserid2018@gmail.com" -f /home/injamul/.ssh/id_rsa_linuxuserin
+: 1594576636:0;cat GIT_PUSH_FROM_DIFFERENT_SSH.md
+: 1594576672:0;export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_rsa_linuxuserin"
+: 1594576694:0;cd ~/Works/Github/linuxuserin
+: 1594576695:0;ls
+: 1594576706:0;cd linuxuserin.github.io
+: 1594576706:0;ls
+: 1594576733:0;cd ..
+: 1594576733:0;ls
+: 1594576739:0;mkdir tmp
+: 1594576740:0;cd tmp
+: 1594576815:0;cat ~/.ssh/id_rsa_linuxuserin.pub
+: 1594576855:0;git clone git@github.com:linuxuserin/linuxuserin.github.io.git
+: 1594576891:0;cp ../linuxuserin.github.io/* linuxuserin.github.io
+: 1594576894:0;cp ../linuxuserin.github.io/* linuxuserin.github.io -r
+: 1594576897:0;cd linuxuserin.github.io
+: 1594576901:0;git status
+: 1594576923:0;git add .
+: 1594576933:0;git status
+: 1594576936:0;cat index.html
+: 1594576956:0;git commit -S -m "Add :  CSS lib"
+: 1594576960:0;git push origin master
+: 1594576975:0;cd ..
+: 1594576976:0;ls
+: 1594576979:0;cd ..
+: 1594576980:0;ls
+: 1594576986:0;rm linuxuserin.github.io -rf 
+: 1594576990:0;mv tmp/linuxuserin.github.io .
+: 1594576991:0;ls
+: 1594576993:0;ls tmp
+: 1594576997:0;rm -rf tmp
+: 1594576997:0;ls
+: 1594577000:0;code 
+: 1594577008:0;cd linuxuserin.github.io
+: 1594577011:0;exit
+: 1594577040:0;git fetch
+: 1594577082:0;echo "export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_rsa_linuxuserin"" >> ../ssh-export.txt
+: 1594577084:0;ls
+: 1594577093:0;git pull origin master
+: 1594577105:0;git push origin master
+: 1594577114:0;git push origin develop
+: 1594577270:0;date -I
+: 1594579701:0;ls
+: 1594579703:0;cd AboutMe
+: 1594579704:0;ls
+: 1594579706:0;cat main.
+: 1594579709:0;cat main.css
+: 1594579959:0;git commit -S -m "Add: created bare bones"
+: 1594579964:0;git push origin develop
+: 1594581093:0;cd ~/Works/ReactJs/mywebsite-home/src/
+: 1594581094:0;ls
+: 1594581105:0;cat components/Contact.js
+: 1594581110:0;ls
+: 1594581116:0;cat App.js
+: 1594581124:0;cat components/Blog.js
+: 1594581224:0;cat styles/Blog.scss
+: 1594581341:0;exit
+: 1594581421:0;git status
+: 1594581432:0;git add .
+: 1594581457:0;git commit -S -m "Add: assets  and css fixes"
+: 1594581465:0;git push origin develop
+: 1594581848:0;cd ~/Works/HTML
+: 1594581849:0;ls
+: 1594581854:0;mkdir RESUME
+: 1594581855:0;cd RESUME
+: 1594581859:0;wget -m https://alvaromontoro.com/files/resume-modern.html
+: 1594581890:0;rm ~/.wget-hsts
+: 1594581892:0;wget -m https://alvaromontoro.com/files/resume-modern.html
+: 1594581941:0;Dragon
+: 1594582109:0;cat ~/temp/websites/wget.help
+: 1594582115:0;cat ~/temp/websites/fast-download.txt
+: 1594582120:0;cat ~/temp/websites/wget.help
+: 1594582278:0;cd temp/websites
+: 1594582279:0;l
+: 1594582308:0;wget \\
+     --recursive \\
+     --no-clobber \\
+     --page-requisites \\
+     --html-extension \\
+     --convert-links \\
+     --restrict-file-names=windows \\
+     --domains https://alvaromontoro.com/ \\
+     --no-parent \\
+         https://alvaromontoro.com/files/resume-modern.html
+: 1594582316:0;ls
+: 1594582318:0;cd alvaromontoro.com
+: 1594582319:0;ls
+: 1594582321:0;cd files
+: 1594582321:0;l
+: 1594582338:0;google-chrome resume-modern.html
+: 1594582385:0;ls
+: 1594582399:0;mv resume-modern.html ~/Works/HTML/
+: 1594582401:0;cd ..
+: 1594582401:0;ls
+: 1594582406:0;cd ..
+: 1594582411:0;tree alvaromontoro.com -a
+: 1594582416:0;rm -rf alvaromontoro.com
+: 1594582417:0;ls
+: 1594582523:0;ll
+: 1594582745:0;scp injamul@104.45.134.47:/home/injamul/Works/tmp.zip .
+: 1594582760:0;ls
+: 1594582764:0;exit
+: 1594583431:0;GitServer
+: 1594584964:0;cd ..
+: 1594584965:0;ls
+: 1594584969:0;rm -rf linuxuserin
+: 1594584987:0;git clone git@github.com:linuxuserin/linuxuserin.git
+: 1594585131:0;cd linuxuserin
+: 1594585132:0;ls
+: 1594585137:0;code .
+: 1594585255:0;atom .
+: 1594585495:0;git add .
+: 1594585506:0;git commit -S -m "Add: Banner"
+: 1594585511:0;git push origin master
+: 1594585534:0;exit
+: 1594585544:0;cd ../linuxuserin
+: 1594585546:0;git push origin master
+: 1594585564:0;cd ../linuxuserin.github.io
+: 1594585565:0;ls
+: 1594585983:0;cd Works/Github/mrinjamul/mrinjamul
+: 1594585983:0;ls
+: 1594586104:0;wget https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg
+: 1594586106:0;ls
+: 1594586133:0;code .
+: 1594586371:0;git add .
+: 1594586375:0;git push origin master
+: 1594586386:0;git commit -S -m "fix: links"
+: 1594586390:0;git push origin master
+: 1594586412:0;ls
+: 1594586433:0;git status
+: 1594586438:0;git log
+: 1594586443:0;git log --oneline
+: 1594586450:0;git diff 8bbe8f4
+: 1594586453:0;git log --oneline
+: 1594586458:0;git diff 8bbe8f4 cdbb4c9
+: 1594586472:0;git reset HEAD~
+: 1594586477:0;git status
+: 1594586481:0;git diff
+: 1594586486:0;cd ../linuxuserin
+: 1594586491:0;git push origin master
+: 1594586495:0;git status
+: 1594586498:0;git add .
+: 1594586510:0;git commit -S -m "Fix: link"
+: 1594586516:0;git push origin master
+: 1594586592:0;cd ../linuxuserin.github.io
+: 1594586597:0;code .
+: 1594586604:0;ls
+: 1594586718:0;exit
+: 1594587204:0;git checkout master
+: 1594587232:0;git stash apply
+: 1594587254:0;git stash save
+: 1594587266:0;git checkout master
+: 1594587271:0;git merge develop
+: 1594587286:0;git reset HEAD~
+: 1594587293:0;git merge develop --no-ff
+: 1594587312:0;git pull origin master
+: 1594587321:0;git merge develop --no-ff
+: 1594587356:0;git checkout develop
+: 1594587369:0;git reset --hard
+: 1594587371:0;git checkout develop
+: 1594587378:0;rm assets/profile.png
+: 1594587380:0;git checkout develop
+: 1594587385:0;git status
+: 1594587399:0;git stash list
+: 1594587405:0;git stash show
+: 1594587414:0;git stash apply
+: 1594587419:0;git stash pop
+: 1594587426:0;git stash list
+: 1594587434:0;git stash clear
+: 1594587435:0;git stash list
+: 1594587440:0;git status
+: 1594587445:0;git add .
+: 1594587450:0;git status
+: 1594587458:0;git diff --staged
+: 1594587462:0;git add .
+: 1594587473:0;git commit -m "updates"
+: 1594587477:0;git push origin develop
+: 1594587488:0;cd ..
+: 1594587493:0;rm -rf linuxuserin.github.io
+: 1594587502:0;git clone git@github.com:linuxuserin/linuxuserin.github.io.git
+: 1594587511:0;ls
+: 1594587513:0;cd linuxuserin
+: 1594587516:0;cd ../linuxuserin.github.io
+: 1594587517:0;ls
+: 1594587524:0;	git checkout develop
+: 1594587611:0;git pull origin master
+: 1594587622:0;git checkout master
+: 1594587623:0;git pull origin master
+: 1594587640:0;git checkout develop
+: 1594587642:0;git pull origin master
+: 1594587653:0;git push origin develop
+: 1594587671:0;git pull origin develop
+: 1594587681:0;git pull origin master
+: 1594588039:0;git add .
+: 1594588048:0;git commit -m "Add: fav"
+: 1594588052:0;git push origin mm
+: 1594588056:0;git push origin develop
+: 1594590735:0;code ~/Works/Github/mrinjamul/mrinjamul
+: 1594590746:0;ls
+: 1594590753:0;cd ../linuxuserin
+: 1594590755:0;ls
+: 1594590767:0;nano README.md
+: 1594590801:0;git add .
+: 1594590811:0;git commit -S -m "update"
+: 1594590815:0;git push origin master
+: 1594590827:0;cd ../linuxuserin.github.io
+: 1594590836:0;git merge master
+: 1594590841:0;git checkout master
+: 1594590845:0;git pull origin master
+: 1594590976:0;git merge develop --no-ff
+: 1594590982:0;git push origin master
+: 1594590995:0;git checkout develop
+: 1594591002:0;git pull origin master
+: 1594591014:0;git push origin develop
+: 1594591020:0;exit
+: 1594591094:0;ls
+: 1594591166:0;exit
+: 1594585973:0;cd ~
+: 1594618321:0;figlet oh my zsh
+: 1594618339:0;figlet Injamul
+: 1594618412:0;cd Works
+: 1594618412:0;ls
+: 1594618422:0;cd Github/linuxuserin
+: 1594618423:0;ls
+: 1594618426:0;cat ssh-export.txt
+: 1594618434:0;export GIT_SSH_COMMAND=ssh -i /home/injamul/.ssh/id_rsa_linuxuserin
+: 1594618443:0;export GIT_SSH_COMMAND="ssh -i /home/injamul/.ssh/id_rsa_linuxuserin"
+: 1594618466:0;echo "export GIT_SSH_COMMAND="ssh -i /home/injamul/.ssh/id_rsa_linuxuserin"" > ssh-export.txt
+: 1594618467:0;cat ssh-export.txt
+: 1594618479:0;echo "export GIT_SSH_COMMAND='"ssh -i /home/injamul/.ssh/id_rsa_linuxuserin"'" > ssh-export.txt
+: 1594618480:0;cat ssh-export.txt
+: 1594618493:0;export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'
+: 1594618502:0;ls
+: 1594618606:0;ls linuxuserin
+: 1594618756:0;nano ~/temp/oh-my-zsh.txt
+: 1594618765:0;clear
+: 1594618790:0;code  linuxuserin.github.io
+: 1594619116:0;cat ../../Gitlab/mrasif.in/public/robots.txt
+: 1594619155:0;cp  ../../Gitlab/mrasif.in/public/robots.txt linuxuserin.github.io
+: 1594619173:0;cat ../../Gitlab/mrasif.in/public/sitemap.xml
+: 1594620592:0;cd linuxuserin.github.io
+: 1594620599:0;git push origin master
+: 1594620632:0;git push origin develop
+: 1594620710:0;git checkout master
+: 1594620727:0;git merge develop --no-ff
+: 1594620734:0;git push origin master
+: 1594620828:0;git checkout develop
+: 1594620832:0;git pull origin master
+: 1594621515:0;git push origin develop
+: 1594621526:0;git push origin master
+: 1594621698:0;exit
+: 1594621837:0;git checkout master
+: 1594621850:0;git add .
+: 1594621867:0;git commit -m "update sitemap"
+: 1594621871:0;git push origin master
+: 1594621896:0;git checkout develop
+: 1594621906:0;git pull origin master
+: 1594621917:0;git push origin develop
+: 1594624605:0;git push origin develop 
+: 1594624733:0;git merge master
+: 1594624738:0;git checkout master
+: 1594624748:0;git merge develop --no-ff
+: 1594624754:0;git push origin master
+: 1594624775:0;git checkout develop
+: 1594624779:0;git pull origin master
+: 1594624797:0;git push origin develop
+: 1594630827:0;exit
+: 1594633343:0;cd Works
+: 1594653680:0;ls
+: 1594653840:0;atom resume-modern.html
+: 1594653843:0;exit
+: 1594659442:0;ping google.com
+: 1594699153:0;google-chrome --version
+: 1594699187:0;sudo apt-get update
+: 1594699318:0;sudo apt-get upgrade
+: 1594699791:0;ls
+: 1594699862:0;APT install ./google-chrome-stable_current_amd64.deb
+: 1594709013:0;sudo apt-get update
+: 1594709056:0;exit
+: 1594709838:0;htop
+: 1594722208:0;sudo apt-get update
+: 1594722270:0;Dragon
+: 1594725683:0;s
+: 1594725684:0;ls
+: 1594725694:0;Dragon
+: 1594726242:0;cd go
+: 1594726242:0;ls
+: 1594726251:0;mkdir CommandLine
+: 1594726253:0;cd CommandLine
+: 1594726253:0;ls
+: 1594726405:0;mkdir demo
+: 1594726406:0;cd demo
+: 1594726407:0;ls
+: 1594726414:0;vim main.go
+: 1594726661:0;cd Works/go/CommandLine/demo
+: 1594726662:0;ls
+: 1594726667:0;vim main.go
+: 1594726788:0;go get github.com/urfave/cli
+: 1594726840:0;vim main.go
+: 1594729365:0;la
+: 1594729367:0;ls
+: 1594729371:0;go run main.go
+: 1594743402:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594743438:0;go run main.go
+: 1594743446:0;go run build
+: 1594743475:0;go main.go build
+: 1594743481:0;go  build main.go
+: 1594744253:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594744301:0;go run main.go
+: 1594744324:0;go get golang.org/x/tools/cmd/goimports
+: 1594744339:0;exit
+: 1594744403:0;GOOS=windows go build -o forecaster.exe main.go
+: 1594744523:0;go build
+: 1594744533:0;go build main.go gitgo
+: 1594744549:0;go get github.com/ogier/pflag
+: 1594744953:0;go build main.go 
+: 1594744982:0;goimports -w main.go
+: 1594744994:0;go build main.go 
+: 1594745010:0;go get github.com/fatih/color
+: 1594745034:0;go build main.go 
+: 1594745198:0;go mod init github.com/mrinjamul/go-cli-demo
+: 1594745201:0;go build main.go 
+: 1594787987:0;ls
+: 1594787994:0;cd ..
+: 1594787995:0;l
+: 1594787997:0;ls
+: 1594787998:0;l
+: 1594788005:0;zip demo.zip demo
+: 1594788007:0;zip demo.zip demo -r
+: 1594788009:0;ls
+: 1594788016:0;mv demo.zip ../others
+: 1594788017:0;ls
+: 1594788019:0;cd demo
+: 1594788020:0;ls
+: 1594788026:0;cat go.mod
+: 1594788032:0;cd ..
+: 1594788032:0;l
+: 1594788042:0;mv demo go-cli-demo
+: 1594788042:0;ls
+: 1594788045:0;cd go-cli-demo
+: 1594788045:0;ls
+: 1594788339:0;git init
+: 1594788343:0;code .
+: 1594788388:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594788392:0;ls
+: 1594788399:0;rm  *
+: 1594788414:0;vim main.go
+: 1594788435:0;go mod init github.com/mrinjamul/go-cli-demo
+: 1594788457:0;git add .
+: 1594788472:0;git commit -m "Initial Commit"
+: 1594788487:0;exit
+: 1594788800:0;go build
+: 1594788845:0;ls
+: 1594788855:0;./go-cli-demo --help
+: 1594788868:0;./go-cli-demo --version
+: 1594788874:0;./go-cli-demo -version
+: 1594788904:0;./go-cli-demo -integer flag 1
+: 1594789169:0;go build
+: 1594789171:0;ls
+: 1594789178:0;./go-cli-demo --help
+: 1594789188:0;./go-cli-demo --version
+: 1594789206:0;./go-cli-demo --count 2
+: 1594789208:0;./go-cli-demo --count 3
+: 1594789210:0;./go-cli-demo --count 4
+: 1594789214:0;./go-cli-demo --count 5
+: 1594789216:0;./go-cli-demo --count 6
+: 1594789219:0;./go-cli-demo --count 7
+: 1594789263:0;./go-cli-demo -version
+: 1594789369:0;./go-cli-demo 
+: 1594789435:0;go build
+: 1594789437:0;./go-cli-demo -version
+: 1594789445:0;./go-cli-demo -v
+: 1594789457:0;./go-cli-demo -count 3
+: 1594789698:0;tree ~/go
+: 1594789740:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594789751:0;exit
+: 1594798012:0;echo "7430802605"
+: 1594798049:0;echo "7430802605" >> ~/temp/antajul.txt
+: 1594798068:0;echo "Antajul SK" >> ~/temp/antajul.txt 
+: 1594798252:0;ls
+: 1594798328:0;exit
+: 1594876302:0;sudo apt-get update
+: 1594884429:0;sudo apt-get upgrade
+: 1594884492:0;exit
+: 1594925230:0;ll
+: 1594925258:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594928008:0;exit
+: 1594928027:0;Dragon
+: 1594928196:0;cd Github/ProgrammingZone/programming-zone.github.io
+: 1594928197:0;l
+: 1594928198:0;s
+: 1594928305:0;git checkout --orphan develop
+: 1594928321:0;git rm -rf .
+: 1594928324:0;ls
+: 1594928328:0;git status
+: 1594928343:0;cd ..
+: 1594928343:0;ls
+: 1594928352:0;mkdir tmp
+: 1594928356:0;cd tmp
+: 1594928379:0;create-react-app programming-zone.github.io
+: 1594928724:0;cd programming-zone.github.io
+: 1594928724:0;;s
+: 1594928726:0;ls
+: 1594928731:0;rm -rf .git
+: 1594928731:0;ls
+: 1594928751:0;cp -rf . ../../programming-zone.github.io
+: 1594928772:0;cd ../../programming-zone.github.io
+: 1594928773:0;ls
+: 1594928777:0;code .
+: 1594928786:0;npm start
+: 1594929103:0;git status -s
+: 1594929108:0;git add .
+: 1594929257:0;echo 'git commit -m "Initial commit"'
+: 1594929263:0;git add .
+: 1594929392:0;git commit -m "Initial commit"
+: 1594929398:0;git push origin develop
+: 1594929525:0;git pull origin develop
+: 1594930147:0;npm install node-sass --save
+: 1594930673:29;npm audit fix
+: 1594930777:0;npm start
+: 1594931651:0;cd src
+: 1594931652:0;ls
+: 1594931661:0;cd components
+: 1594931662:0;ls
+: 1594931666:0;wget https://redhatofficial.github.io/428642ddd08c4df6f52739e0bc6bba11.png
+: 1594931691:0;cd ../styles
+: 1594931691:0;ls
+: 1594931700:0;curl https://redhatofficial.github.io/428642ddd08c4df6f52739e0bc6bba11.png 
+: 1594931728:0;curl https://redhatofficial.github.io/428642ddd08c4df6f52739e0bc6bba11.png --output header-bg.png
+: 1594932074:0;git commit -S -m  "Add: Header"
+: 1594932372:0;gedit
+: 1594935107:0;npm start
+: 1594935849:0;git log --oneline
+: 1594935880:0;git checkout 157d443
+: 1594935886:0;cat src/App.js
+: 1594935897:0;cat src/components/listData.js
+: 1594935945:0;exit
+: 1594935969:0;cat src/components/listData.js
+: 1594935979:0;cat src/App.js
+: 1594937288:0;npm start
+: 1594941992:0;git commit -S -m "update: footer"
+: 1594941998:0;git push origin master
+: 1594942226:0;git push origin develop
+: 1594943153:0;git commit -S -m "Update data for production"
+: 1594943159:0;git push origin develop
+: 1594943172:0;npm run build
+: 1594943195:0;git checkout master
+: 1594943207:0;ls
+: 1594943214:0;cd ..
+: 1594943214:0;;
+: 1594943217:0;cd ..
+: 1594943219:0;ls
+: 1594943225:0;git status
+: 1594943243:0;git checkout develop
+: 1594943244:0;ls
+: 1594943251:0;cat .gitignore
+: 1594943257:0;cp .gitignore ..
+: 1594943277:0;git checkout develop
+: 1594943280:0;git checkout master
+: 1594943287:0;cp ../.gitignore .
+: 1594943288:0;ls
+: 1594943290:0;git status
+: 1594943297:0;git add .gitignore
+: 1594943312:0;git commit -S -m "Add: gitignore"
+: 1594943315:0;git push origin master
+: 1594943371:0;la
+: 1594943380:0;cp build/* .
+: 1594943382:0;ls
+: 1594943386:0;cp build/* . -rf
+: 1594943388:0;ls
+: 1594943395:0;serve -s
+: 1594943418:0;git add .
+: 1594943425:0;git status
+: 1594943426:0;ls
+: 1594943483:0;git commit -S -m "Add: website is live ! ðƒ¿ƒ®ƒ©"
+: 1594943487:0;git status
+: 1594943492:0;git push origin master
+: 1594943611:0;git checkout develop
+: 1594943612:0;ls
+: 1594943628:0;git status -s
+: 1594943635:0;git fetch
+: 1594943647:0;ls
+: 1594943701:0;git push
+: 1594962802:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1594962851:0;npm start
+: 1594963013:0;cat ReactJs/myapp/public/manifest.json
+: 1594963363:0;cat Github/linuxuserin/linuxuserin.github.io/index.html
+: 1594963733:0;co Github/linuxuserin/linuxuserin.github.io/css/normalize.css Github/ProgrammingZone/programming-zone.github.io/public/css
+: 1594963737:0;cp Github/linuxuserin/linuxuserin.github.io/css/normalize.css Github/ProgrammingZone/programming-zone.github.io/public/css
+: 1594963763:0;cat Github/linuxuserin/linuxuserin.github.io/sitemap.xml
+: 1594963793:0;cp Github/linuxuserin/linuxuserin.github.io/sitemap.xml Github/ProgrammingZone/programming-zone.github.io/public/
+: 1594964208:0;ls
+: 1594964213:0;git status
+: 1594964219:0;npm run build
+: 1594964408:0;cat Gitlab/mrasif.in/public/robots.txt
+: 1594964484:0;git checkout master
+: 1594964486:0;ls
+: 1594964534:0;cp -rf build/* .
+: 1594964538:0;git status
+: 1594964543:0;git add .
+: 1594964569:0;git commit -S -m "fix: add SEO and fix bugs"
+: 1594964574:0;git status
+: 1594964578:0;git push origin master
+: 1594964610:0;git checkout develop
+: 1594964614:0;git status
+: 1594964659:0;code 
+: 1594966133:0;exit
+: 1594967070:0;code
+: 1594967085:0;atom Github/ProgrammingZone/programming-zone.github.io/README.md
+: 1594967324:0;git pull origin develop
+: 1594967388:0;git commit -S -m "Update: README"
+: 1594967392:0;git push origin master
+: 1594967396:0;git push origin develop
+: 1594972426:0;cat Gitlab/mrasif.in/public/sitemap.xml
+: 1594972665:0;cd Github/ProgrammingZone/programming-zone.github.io
+: 1594972667:0;ls
+: 1594972692:0;npm start
+: 1594972758:0;ls
+: 1594972762:0;npm run build
+: 1594972800:0;git checkout master
+: 1594972825:0;cp -rf build/* .
+: 1594972833:0;atom README.md
+: 1594972928:0;cat ../../linuxuserin/linuxuserin/README.md
+: 1594972944:0;git status
+: 1594972952:0;git add .
+: 1594973007:0;git commit -S -m "ðƒ¿ƒ´¥ ðƒ¿ƒ¬ƒ¿ Update ðƒ¿ƒ¬ƒ¿ ðƒ¿ƒ´¥"
+: 1594973012:0;git push origin master
+: 1594973027:0;git checkout develop
+: 1594973028:0;ls
+: 1594973030:0;git status
+: 1594973051:0;git checkout master
+: 1594973055:0;git push origin master
+: 1594973070:0;git checkout develop
+: 1594973073:0;git push origin develop
+: 1594973147:0;git tag -a v1.1 -m "First Release ðƒ¿ƒ¬ƒ¿"
+: 1594973232:0;git push v1.1
+: 1594973246:0;git push origin v1.1
+: 1594975422:0;cd ~/temp
+: 1594975425:0;clone-it https://github.com/8bithemant/8bithemant.git
+: 1594975444:0;zip -r 8bithemant.zip 8bithemant
+: 1594975456:0;mv 8bithemant.zip /mnt/Storage/Backups
+: 1594975457:0;ls
+: 1594975469:0;mv 8bithemant/ ~/Works/Github/Others/
+: 1594975472:0;exit
+: 1594975808:0;atom ../../Others/8bithemant
+: 1594976084:0;cat  ../../Others/8bithemant/README.md | visitor
+: 1594976089:0;cat  ../../Others/8bithemant/README.md | grep visitor
+: 1594976119:0;atom README.md
+: 1594976720:0;code
+: 1594976792:0;npm start
+: 1594977216:0;ps -a | grep post
+: 1594977497:0;cat ../SearchBox.js
+: 1594978413:0;l
+: 1594978419:0;git status
+: 1594978433:0;git commit -S -m "Add: Repo"
+: 1594978439:0;git push origin develop
+: 1594978698:0;npm start
+: 1594979326:0;npm run build
+: 1594979368:0;git status
+: 1594979369:0;ls
+: 1594979379:0;git push origin develop
+: 1594980232:0;ls
+: 1594980240:0;git checkout master
+: 1594980243:0;git status
+: 1594980286:0;git add .
+: 1594980292:0;git status -s
+: 1594980309:0;serve -s
+: 1594980354:0;ls
+: 1594980391:0;git commit -S -m "Add: Repo ðƒ¿ƒ´ƒ¶"
+: 1594980395:0;git push origin master
+: 1594980452:0;git checkout develop
+: 1594980460:0;git push origin develop
+: 1594980594:0;code .
+: 1594980745:0;npm start
+: 1594980956:0;git checkout -b add-features
+: 1594980961:0;git status
+: 1594980972:0;git push origin add-features
+: 1594986192:0;cd Github/ProgrammingZone
+: 1594986214:0;git clone git@github.com:programming-zone/code-snippets.git
+: 1594986224:0;ls
+: 1594986234:0;cat code-snippets/notes/api.json
+: 1594987732:0;curl https://api.github.com/orgs/programming-zone/repos/pages\
+
+: 1594987736:0;curl https://api.github.com/orgs/programming-zone/repos/page\
+
+: 1594987749:0;curl https://api.github.com/orgs/programming-zone/repos/\
+
+: 1594987751:0;curl https://api.github.com/orgs/programming-zone/repos\
+
+: 1594987952:0;git commit -S -m "Add: All Projects (compo)"
+: 1594987962:0;git push origin add-features
+: 1594988140:0;git fetch origin\
+git checkout -b add-features origin/add-features\
+git merge develop
+: 1594988157:0;git checkout develop\
+git merge --no-ff add-features\
+git push origin develop
+: 1594988180:0;exit
+: 1594988218:0;cd ~
+: 1594988221:0;cd ~/Works
+: 1594988222:0;ls
+: 1594988278:0;npm run build
+: 1594988366:0;git checkout master
+: 1594988420:0;ls
+: 1594988493:0;git status
+: 1594988500:0;cp -rf build/* .
+: 1594988503:0;git status
+: 1594988507:0;git add .
+: 1594988510:0;git status -S
+: 1594988513:0;git status -s
+: 1594988564:0;git commit -S -m "ðƒ¿ƒ¬ƒ¿ New features ðƒ¿ƒ¬ƒ¿  ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©"
+: 1594988568:0;git push origin master
+: 1594988592:0;ls
+: 1594988600:0;git checkout develop
+: 1594988601:0;ls
+: 1594988608:0;git status -s
+: 1594988615:0;git checkout add-features
+: 1594988616:0;git status -s
+: 1594988700:0;git pull origin develop
+: 1594988716:0;git push origin add-features
+: 1594988780:0;code 
+: 1594988827:0;npm start
+: 1594989143:0;code 
+: 1594989152:0;npm start
+: 1594989349:0;cat ../../linuxuserin/linuxuserin.github.io/css/style.scss
+: 1594989834:0;git commit -S -m "fix: mobile responsive(repo compo)"
+: 1594989838:0;git push origin master
+: 1594989870:0;git push origin add-features
+: 1594990039:0;git fetch origin\
+git checkout -b add-features origin/add-features\
+git merge develop
+: 1594990054:0;git checkout develop\
+git merge --no-ff add-features\
+git push origin develop
+: 1594990080:0;git push origin develop
+: 1594990103:0;npm run build
+: 1594990152:0;git checkout master
+: 1594990173:0;cp -rf build/* .
+: 1594990175:0;git add .
+: 1594990285:0;git commit -S -m "ðƒ¿ƒ´§ fix : ðƒ¿ƒ³± Mobile Responsive âƒ¼¨"
+: 1594990289:0;git push origin master
+: 1594990320:0;git checkout develop
+: 1594990324:0;git status -s
+: 1594990331:0;git checkout add-features
+: 1594990332:0;git status -s
+: 1594990341:0;git pull origin develop
+: 1594990355:0;git push origin add-features
+: 1594990384:0;ls
+: 1595007406:0;code
+: 1595007447:0;npm start
+: 1595008921:0;cd ~/Works/HTML
+: 1595008928:0;mkdir github-profile
+: 1595008931:0;cd github-profile
+: 1595008944:0;vim index.html
+: 1595008993:0;ls
+: 1595008996:0;atom .
+: 1595009030:0;google-chrome index.html
+: 1595014748:0;git commit -S -m Add: contributors""
+: 1595014756:0;git add .
+: 1595014764:0;git commit -S -m "Add: contributors"
+: 1595014819:0;git commit -S -m "Add: contributors ðƒ¿ƒ±ƒ«"
+: 1595014825:0;git push origin add-features
+: 1595014952:0;git fetch origin\
+git checkout -b add-features origin/add-features\
+git merge develop
+: 1595014964:0;git checkout develop\
+git merge --no-ff add-features\
+git push origin develop
+: 1595014984:0;git  branch -D add-features
+: 1595014990:0;git push origin develop
+: 1595015060:0;git tag -a v1.2 -m "Full version release"
+: 1595015068:0;git push origin v1.2
+: 1595015161:0;exit
+: 1595015167:0;git checkout master
+: 1595015168:0;ls
+: 1595015181:0;git checkout develop
+: 1595015190:0;npm run build
+: 1595015214:0;git checkout master
+: 1595015223:0;serve -s build
+: 1595015258:0;ls
+: 1595015263:0;cp -rf build/* .
+: 1595015271:0;git status -s
+: 1595015274:0;git add .
+: 1595015275:0;git status -s
+: 1595015307:0;git commit -S -m "Add: Contributors ðƒ¿ƒ´ƒ¶"
+: 1595015312:0;git push origin master
+: 1595015330:0;git checkout develop
+: 1595015334:0;git fetch
+: 1595015350:0;git pull origin develop
+: 1595015429:0;git status -s
+: 1595015431:0;exit
+: 1595015438:0;sudo apt-get update
+: 1595015499:0;sudo apt-get upgrade
+: 1595015510:0;sudo apt-get autoremove
+: 1595015514:0;sudo apt-get autoclean
+: 1595015517:0;sudo apt-get clean
+: 1595015520:0;sudo apt-get -s clean
+: 1595015523:0;exit
+: 1595015637:0;cd Works
+: 1595015641:0;cd ReactJs/myschedule
+: 1595015646:0;git pull origin master
+: 1595015659:0;exit
+: 1595065511:0;go get github.com/urfave/cli/v2
+: 1595065550:0;cd go/CommandLine/go-cli-demo
+: 1595065551:0;ls
+: 1595065552:0;go get github.com/urfave/cli/v2
+: 1595065918:0;npm start
+: 1595067104:0;git push origin develop
+: 1595067127:0;npm run build
+: 1595067160:0;git checkout master
+: 1595067161:0;ls
+: 1595067190:0;serve -s build
+: 1595067233:0;cp -rf build/* .
+: 1595067236:0;git add .
+: 1595067268:0;git commit -S -m "ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ© Update ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©"
+: 1595067274:0;git push origin master
+: 1595067295:0;git checkout develop
+: 1595067513:0;npm start
+: 1595067917:0;ls
+: 1595067923:0;serve -s build
+: 1595067948:0;ls
+: 1595067959:0;cat ~/Works/ReactJs/mrinjamul.github.io/clean-up.sh
+: 1595067994:0;ls
+: 1595068005:0;cp ~/Works/ReactJs/mrinjamul.github.io/clean-up.sh .
+: 1595068006:0;l
+: 1595068008:0;ls
+: 1595068021:0;nano clean-up.sh
+: 1595068041:0;./clean-up.sh
+: 1595068045:0;ls
+: 1595068062:0;serve -s build
+: 1595068081:0;cp -rf build/* .
+: 1595068084:0;git add .
+: 1595068096:0;git status -s
+: 1595068134:0;git commit -S -m "fix: firefox issue ðƒ¿ƒ´§ðƒ¿ƒ´§ðƒ¿ƒ´§"
+: 1595068138:0;git push origin master
+: 1595068245:0;git status -s
+: 1595068251:0;git checkout develop
+: 1595068252:0;git status -s
+: 1595068254:0;ls
+: 1595068259:0;exit
+: 1595068404:0;ls
+: 1595068406:0;git status
+: 1595068415:0;git add .
+: 1595068427:0;git commit -a -S -m "update"
+: 1595068437:0;git push origin master
+: 1595068448:0;git remote -v
+: 1595069035:0;ls ~/Works/Github/ProgrammingZone/code-snippets
+: 1595079405:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595079416:0;go build
+: 1595079426:0;./go-cli-demo
+: 1595079435:0;./go-cli-demo --help
+: 1595079439:0;./go-cli-demo help
+: 1595079540:0;git log --oneline
+: 1595079546:0;git status
+: 1595079549:0;git add .
+: 1595079576:0;git commit -S -m "lib: urfave/cli used"
+: 1595079585:0;cat go.mod
+: 1595079589:0;cat go.sum
+: 1595079614:0;git reset HEAD~
+: 1595079620:0;rm go.sum
+: 1595079623:0;go get github.com/urfave/cli/v2
+: 1595079633:0;cat go.mod
+: 1595079645:0;go get github.com/urfave/cli/v2
+: 1595079685:0;ls
+: 1595079688:0;cat go.sum
+: 1595079728:0;go mod init github.com/mrinjamul/go-cli-demo
+: 1595079744:0;cat go.mod
+: 1595079750:0;git add .
+: 1595079755:0;git commit -S -m "lib: urfave/cli used"
+: 1595079799:0;go build
+: 1595079812:0;go-cli-demo help
+: 1595079816:0;./go-cli-demo help
+: 1595079840:0;mv go-cli-demo boom
+: 1595079846:0;./boom help
+: 1595085272:0;go build
+: 1595085280:0;./go-cli-demo help
+: 1595085333:0;./go-cli-demo 
+: 1595085380:0;go build
+: 1595088121:0;./go-cli-demo 
+: 1595088141:0;./go-cli-demo help
+: 1595088153:0;mv go-cli-demo greet
+: 1595088157:0;./greet help
+: 1595088222:0;go build
+: 1595088240:0;./go-cli-demo  help
+: 1595088247:0;./go-cli-demo  "help"
+: 1595088256:0;./go-cli-demo  injamul
+: 1595089205:0;go build
+: 1595089213:0;./go-cli-demo injamul
+: 1595089241:0;./go-cli-demo --lang="spanish" injamul
+: 1595089254:0;mv go-cli-demo greeting
+: 1595089256:0;ls
+: 1595089301:0;cat go.mod
+: 1595089361:0;git remote add origin git@github.com:mrinjamul/go-cli-demo.git\
+git push -u origin master
+: 1595089548:0;./greeting help
+: 1595089571:0;./greeting --lang spanish Injamul
+: 1595089590:0;mkdir  compiled
+: 1595089599:0;mv boom compiled
+: 1595089608:0;mv greet* compiled
+: 1595089614:0;git add .
+: 1595089684:0;git remote -v
+: 1595089938:0;ls
+: 1595089940:0;cd compiled
+: 1595089941:0;ls
+: 1595089952:0;./greet Injamul Mohammad Mollah
+: 1595089959:0;./greeting Injamul Mohammad Mollah
+: 1595089974:0;cd ..
+: 1595089975:0;;s
+: 1595089976:0;ls
+: 1595090291:0;go build
+: 1595090309:0;./go-cli-demo Injamul Mollah
+: 1595090317:0;./go-cli-demo Injamul Mohammad Mollah
+: 1595090446:0;go build
+: 1595090449:0;./go-cli-demo Injamul Mohammad Mollah
+: 1595090463:0;./go-cli-demo Injamul 
+: 1595090470:0;./go-cli-demo Injamul Mohammad Mollah
+: 1595090494:0;./go-cli-demo 
+: 1595090507:0;./go-cli-demo help
+: 1595090592:0;./go-cli-demo 
+: 1595090659:0;./compiled/greeting
+: 1595090685:0;go build
+: 1595090695:0;mv go-cli-demo greeting
+: 1595090700:0;mv greeting compiled
+: 1595090985:0;ls
+: 1595095209:0;go build
+: 1595095221:0;./go-cli-demo lang spanish Injamul
+: 1595095229:0;./go-cli-demo --lang spanish Injamul
+: 1595095235:0;./go-cli-demo -lang spanish Injamul
+: 1595095240:0;./go-cli-demo --lang spanish Injamul
+: 1595182065:0;nano ~/temp/hacker-bag.txt
+: 1595186177:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595186218:0;go build
+: 1595186224:0;./go-cli-demo
+: 1595186228:0;./go-cli-demo help
+: 1595226228:0;ls
+: 1595226235:0;sl
+: 1595226872:0;go build
+: 1595226884:0;mv go-cli-demo greeting
+: 1595226894:0;./greeting -help
+: 1595226898:0;./greeting
+: 1595227280:0;go build
+: 1595227385:0;./go-cli-demo 
+: 1595227389:0;./go-cli-demo Injamul
+: 1595227403:0;./go-cli-demo -l spanish Injamul
+: 1595227416:0;./go-cli-demo --lang spanish Injamul
+: 1595227582:0;go build
+: 1595227589:0;./go-cli-demo -l spanish Injamul
+: 1595227609:0;./go-cli-demo 
+: 1595227612:0;./go-cli-demo help
+: 1595227754:0;echo $LANG
+: 1595227765:0;echo $APP_LANG
+: 1595227778:0;go build
+: 1595227782:0;./go-cli-demo help
+: 1595227800:0;./go-cli-demo 
+: 1595227973:0;export $APP_LANG="es_ES.UTF-8"
+: 1595227977:0;export APP_LANG="es_ES.UTF-8"
+: 1595227996:0;./go-cli-demo Injamul
+: 1595228009:0;export LANG="es_ES.UTF-8"
+: 1595228010:0;./go-cli-demo Injamul
+: 1595228018:0;ls
+: 1595228410:0;echo "spanish" > lang.txt
+: 1595228418:0;go build
+: 1595228425:0;./go-cli-demo Injamul
+: 1595228445:0;go build
+: 1595228447:0;./go-cli-demo Injamul
+: 1595228514:0;go build
+: 1595228516:0;./go-cli-demo Injamul
+: 1595228542:0;go build
+: 1595228544:0;./go-cli-demo Injamul
+: 1595228560:0;go build
+: 1595228565:0;go build main.go 
+: 1595228568:0;./go-cli-demo Injamul
+: 1595228919:0;git push origin master
+: 1595228970:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595229047:0;APT install ./Downloads/code_1.47.2-1594837870_amd64.deb
+: 1595229349:0;cd Github/Others/
+: 1595229356:0;git clone git@github.com:mrasif/mrasif.github.com.git
+: 1595229745:0;clone-it git@github.com:mrasif/exploring-golang.git
+: 1595229924:0;cd ~/Works/scripts/tutorials
+: 1595229934:0;clone-it git@github.com:mrasif/Unix-Shell-Script.git
+: 1595230540:0;git push origin master
+: 1595230554:0;git status -s
+: 1595230558:0;git add .
+: 1595230577:0;git commit -S -m "create README.md"
+: 1595230583:0;git push origin master
+: 1595230600:0;cd ../..
+: 1595230601:0;ls
+: 1595232397:0;rm main
+: 1595232413:0;sudo apt-get update
+: 1595232554:0;neofetch
+: 1595232560:0;reboot
+: 1595232845:0;cd Works
+: 1595232852:0;cd Works/go/CommandLine
+: 1595232852:0;ls
+: 1595232854:0;cd go-cli-demo
+: 1595232855:0;sl
+: 1595240137:0;ls
+: 1595240140:0;code .
+: 1595240174:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595240285:0;go -v
+: 1595240291:0;go version
+: 1595240744:0;cd ~/Works/HTML
+: 1595240747:0;git clone https://github.com/advance-communication/www.b-e-s.net-dphttps://github.com/advance-communication/www.b-e-s.net-dp
+: 1595240753:0;git clone https://github.com/advance-communication/www.b-e-s.net-dp
+: 1595240825:0;cd www.b-e-s.net-dp
+: 1595240832:0;git checkout gh-pages
+: 1595240839:0;cd ..
+: 1595240840:0;ls
+: 1595243879:0;cat ../silq/correct.slq
+: 1595244367:0;cd ~/Works/Github/Others
+: 1595244367:0;;s
+: 1595244368:0;ls
+: 1595244373:0;cd ../ProgrammingZone
+: 1595244373:0;ls
+: 1595244390:0;git clone git@github.com:programming-zone/hello-world.git
+: 1595244876:0;cd hello-world
+: 1595244900:0;tree | grep idris
+: 1595244911:0;tree | grep gosu
+: 1595244922:0;tree | grep haxe
+: 1595244929:0;tree | grep nim
+: 1595244934:0;tree | grep pony
+: 1595244960:0;tree | grep eso
+: 1595244963:0;tree | grep esolang
+: 1595244977:0;tree | grep chef
+: 1595244985:0;cd c
+: 1595244986:0;ls
+: 1595244991:0;cat chef.ch
+: 1595245004:0;cd ..
+: 1595245014:0;tree | grep lua
+: 1595245036:0;tree | grep lazy
+: 1595245127:0;tree | grep f
+: 1595245129:0;tree | grep d
+: 1595245206:0;ls
+: 1595245227:0;python3 update_list.py
+: 1595245233:0;git diff
+: 1595245247:0;exit
+: 1595245249:0;ls
+: 1595245511:0;cd ~/Works/Github/ProgrammingZone/Git_Tutorials
+: 1595245524:0;git fetch
+: 1595246063:0;git pull origin master
+: 1595246077:0;cd .github/
+: 1595246079:0;nano FUNDING.yml
+: 1595246092:0;git add ..
+: 1595246100:0;cd ..
+: 1595246101:0;l
+: 1595246107:0;git add -A
+: 1595246126:0;git commit -S -m "Update FUNDING.yml"
+: 1595246130:0;git push origin master
+: 1595247375:0;locate our_first_website
+: 1595247442:0;cd ../../AdvancedCommunication/our_first_website
+: 1595247443:0;;s
+: 1595247444:0;ls
+: 1595247448:0;git pull origin master
+: 1595247684:0;cd ../
+: 1595247684:0;l
+: 1595247686:0;ls
+: 1595247692:0;git clone git@github.com:programming-zone/functions.php.git
+: 1595247707:0;cd functions.php
+: 1595247709:0;ls
+: 1595247746:0;mv Disable\ all\ dashboard\ widget\ in\ WordPress disable_all_dashboard_widget_in_wp.php
+: 1595247752:0;cat disable_all_dashboard_widget_in_wp.php
+: 1595247799:0;mv Disable\ Elementor\ overview\ dashboard\ widget\ in\ WordPress disable_elementor_overview_widget_in_WP.php
+: 1595247807:0;cat *.php
+: 1595247813:0;ls
+: 1595247831:0;mv disable_all_dashboard_widget_in_{wp,WP}.php
+: 1595247833:0;ls
+: 1595247836:0;cat README.md
+: 1595247851:0;vim README.md
+: 1595248039:0;ls
+: 1595248047:0;git status
+: 1595248053:0;git add .
+: 1595248055:0;git status
+: 1595248064:0;cat README.md
+: 1595248149:0;git commit -S -m "Update ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©ðƒ¿ƒ®ƒ©"
+: 1595248158:0;git push origin master
+: 1595258891:0;ls
+: 1595258924:0;cat *
+: 1595259019:0;git log
+: 1595259022:0;bash
+: 1595259079:0;ls
+: 1595259094:0;git log
+: 1595259176:0;cd ../../mrinjamul/mrinjamul
+: 1595259177:0;ls
+: 1595259179:0;cat matrix.svg
+: 1595259246:0;ls
+: 1595259268:0;cat README.md
+: 1595259293:0;atom .
+: 1595261327:0;cd ../../../ReactJs
+: 1595261328:0;ls
+: 1595261342:0;cd mywebsite-home
+: 1595261343:0;ls
+: 1595261358:0;git diff master v2
+: 1595261364:0;git branch -a
+: 1595261385:0;git checkout read
+: 1595261387:0;ls
+: 1595261401:0;git log --oneline
+: 1595261411:0;cd ..
+: 1595261412:0;l
+: 1595261413:0;ls
+: 1595261428:0;cp -rf mywebsite-home mrinjamul.js.org
+: 1595261483:0;cd react-currency-calculator
+: 1595261488:0;cat package.json
+: 1595261546:0;exit
+: 1595261595:0;ls
+: 1595261598:0;cd mrinjamul.js.org
+: 1595261599:0;ls
+: 1595261606:0;git checkout master
+: 1595261611:0;git remote -v
+: 1595261641:0;git remote remove origin
+: 1595261643:0;ls
+: 1595261648:0;git branch -a
+: 1595261682:0;git remote add origin git@github.com:mrinjamul/mrinjamul.js.org.git
+: 1595261688:0;git remote -v
+: 1595261697:0;git push origin master -f
+: 1595261720:0;git diff master v2
+: 1595261729:0;git diff v2 master
+: 1595261733:0;git diff v2 read
+: 1595261738:0;exit
+: 1595261785:0;cat src/firebase.js
+: 1595261827:0;exit
+: 1595261879:0;ls Github/mrinjamul/mrinjamul.js.org
+: 1595261900:0;cd Github/mrinjamul
+: 1595261901:0;ls
+: 1595261919:0;cd mrinjamul
+: 1595261924:0;cd ../mrinjamul.js.org
+: 1595261925:0;ls
+: 1595261935:0;cd ..
+: 1595261937:0;ls
+: 1595262049:0;git push origin master -f
+: 1595262097:0;ls
+: 1595262106:0;cd ../mywebsite-home
+: 1595262113:0;git checkout v2
+: 1595262113:0;ls
+: 1595262126:0;git fetch
+: 1595262138:0;git pull origin master
+: 1595262144:0;ls
+: 1595262149:0;git diff master v2
+: 1595262161:0;cd ../mrinjamul.js.org
+: 1595262162:0;ls
+: 1595262172:0;git push origin master -f
+: 1595262190:0;exit
+: 1595262269:0;cd Github/mrinjamul
+: 1595262270:0;ls
+: 1595262390:0;git push origin read
+: 1595262405:0;git branch -D v2
+: 1595262409:0;git branch -a
+: 1595262415:0;git fetch
+: 1595262679:0;ls
+: 1595262688:0;git pull origin master
+: 1595262698:0;ls
+: 1595262723:0;npm install gh-pages --save-dev
+: 1595262765:0;ls
+: 1595262766:0;cd mrinjamul
+: 1595262770:0;ls
+: 1595262773:0;git diff
+: 1595262781:0;cd ../mrinjamul.js.org
+: 1595262783:0;ls
+: 1595262788:0;git fetch
+: 1595262801:0;npm audit fix
+: 1595262880:0;git checkout master
+: 1595262893:0;git checkout gh-pages
+: 1595262898:0;git branch -D master
+: 1595262903:0;git fetch
+: 1595262912:0;git checkout master
+: 1595262915:0;ls
+: 1595262929:0;git checkout read
+: 1595262934:0;git checkout master
+: 1595262937:0;exit
+: 1595262946:0;ls
+: 1595262957:0;nano package.json
+: 1595262979:0;cat ../react-currency-calculator/package.json
+: 1595262997:0;code .
+: 1595263228:0;npm start
+: 1595263315:0;npm run deploy
+: 1595264002:0;git checkout gh-pages
+: 1595264030:0;npm uninstall gh-pages
+: 1595264087:0;npm audit fix
+: 1595264113:0;npm install
+: 1595264230:0;npm audit fix
+: 1595264326:0;git push origin master
+: 1595264342:0;git fetch
+: 1595264365:0;cd ../../Github/mrinjamul/mrinjamul.js.org
+: 1595264375:0;git checkout gh-pages
+: 1595264381:0;cat README.md
+: 1595264449:0;git checkout gh-pages
+: 1595264456:0;git pull origin gh-pages
+: 1595264478:0;git status
+: 1595264507:0;cp ../../Github/ProgrammingZone/programming-zone.github.io/.gitignore .
+: 1595264509:0;ls
+: 1595264517:0;cat .gitignore
+: 1595264656:0;ls
+: 1595264665:0;nano clean-up.sh
+: 1595264674:0;chmod +x clean-up.sh
+: 1595264746:0;git pull origin gh-pages
+: 1595264778:0;git add .
+: 1595264809:0;git commit -S -m "fix: gitignore and clean-up scripts added"
+: 1595264814:0;git push origin gh-pages
+: 1595264836:0;git checkout master
+: 1595264837:0;ls
+: 1595264980:0;git fetch
+: 1595264995:0;git pull origin gh-pages
+: 1595265008:0;git checkout master
+: 1595265012:0;git pull origin master
+: 1595265032:0;cp package-lock.json ..
+: 1595265045:0;git checkout read
+: 1595265047:0;ls
+: 1595265057:0;diff package-lock.json ../package-lock.json
+: 1595265073:0;mv ../package-lock.json .
+: 1595265076:0;git add .
+: 1595265090:0;git commit -m "update package-lock"
+: 1595265094:0;git push origin master
+: 1595265105:0;git push origin read
+: 1595265122:0;git fetch
+: 1595265136:0;git checkout master
+: 1595265138:0;cd ..
+: 1595265139:0;;s
+: 1595265140:0;ls
+: 1595265152:0;zip -r mrinjamul.js.org.zip mrinjamul.js.org
+: 1595265153:0;ls
+: 1595265161:0;rm -rf mrinjamul.js.org
+: 1595265162:0;ls
+: 1595265174:0;exit
+: 1595265186:0;git checkout read
+: 1595265190:0;git pull origin master
+: 1595265344:0;git rm -rf *
+: 1595265349:0;ls
+: 1595265375:0;rm yarn.lock package-lock.json LICENSE src/components/Blog.js
+: 1595265378:0;ls
+: 1595265413:0;cd ..
+: 1595265414:0;ls
+: 1595265423:0;rm -rf mrinjamul.js.org
+: 1595265430:0;ls
+: 1595265448:0;git clone git@github.com:mrinjamul/mrinjamul.js.org.git
+: 1595265647:0;cd ReactJs
+: 1595265648:0;ll
+: 1595265653:0;cd mrinjamul.js.org
+: 1595265654:0;l
+: 1595265662:0;git checkout read
+: 1595265673:0;git checkout gh-pages
+: 1595265677:0;ls
+: 1595265709:0;echo "# mrinjamul.js.org" > README.md
+: 1595265712:0;git add .
+: 1595265731:0;git commit -S -m "Add README.md"
+: 1595265741:0;git push origin gh-pages
+: 1595265762:0;git checkout read
+: 1595265772:0;git pull origin read
+: 1595265799:0;git checkout master
+: 1595265812:0;git pull origin master
+: 1595265890:0;npm  i
+: 1595265968:0;npm audit fix
+: 1595265995:0;code /
+: 1595266005:0;code .
+: 1595266036:0;npm start
+: 1595266096:0;git pull origin master
+: 1595266119:0;git branch -a
+: 1595266136:0;git checkout v2
+: 1595266140:0;git checkout -b v2
+: 1595266147:0;git push origin v2
+: 1595266162:0;exit
+: 1595266166:0;code .
+: 1595266178:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595266634:0;du -lh Github/mrinjamul/mrinjamul.js.org.zip
+: 1595311931:0;sudo apt-get install gnome-clocks
+: 1595312318:0;cd Github/ProgrammingZone/C-Plus-Plus-Program
+: 1595312319:0;;s
+: 1595312320:0;ls
+: 1595312324:0;git fetch
+: 1595312337:0;git pull origin master
+: 1595312428:0;echo "For questions, assistance, and resources on  a topic"
+: 1595312435:0;exit
+: 1595312559:0;ls
+: 1595314622:0;cd ../programming-zone.github.io
+: 1595314635:0;git pull origin develop
+: 1595314911:0;cd ../C-Plus-Plus-Program
+: 1595314915:0;cat CONTRIBUTING.md
+: 1595315369:0;git pull origin develop
+: 1595315446:0;git fetch
+: 1595315470:0;cd ../programming-zone.github.io
+: 1595315474:0;git fetch
+: 1595315484:0;git pull origin develop
+: 1595315546:0;ls
+: 1595315617:0;exit
+: 1595315622:0;ls
+: 1595315648:0;ls Github/ProgrammingZone
+: 1595315656:0;ls Github/mrinjamul
+: 1595315669:0;cd ReactJs
+: 1595315670:0;ls
+: 1595315683:0;mv mrinjamul.github.io ../Github/mrinjamul
+: 1595315684:0;ls
+: 1595315707:0;cd mrinjamul.js.org
+: 1595315720:0;ls
+: 1595315724:0;cd ..
+: 1595315724:0;ls
+: 1595315727:0;ls old
+: 1595315740:0;cd old
+: 1595315740:0;ls
+: 1595315744:0;du -lh
+: 1595315749:0;du -lh ../old
+: 1595315756:0;du -h ../old
+: 1595315757:0;ls
+: 1595315764:0;du -h mywebsite-home-new.zip
+: 1595315770:0;du -h mywebsite-home.old.zip
+: 1595315773:0;ls ProgressBar
+: 1595315787:0;ls ProgressBar/ProgressBar.jsx
+: 1595315796:0;cat ProgressBar/ProgressBar.jsx
+: 1595315804:0;cd ..
+: 1595315805:0;ls
+: 1595315808:0;cd old
+: 1595315808:0;ls
+: 1595315816:0;zip ProgressBar.zip ProgressBar -r
+: 1595315818:0;ls
+: 1595315831:0;rm -rf *home*
+: 1595315832:0;ls
+: 1595315838:0;rm -rf ProgressBar
+: 1595315839:0;ls
+: 1595315859:0;mv ProgressBar.zip ../../Backups/ReactJs
+: 1595315860:0;ls
+: 1595315861:0;cd ..
+: 1595315864:0;rm -rf old
+: 1595315864:0;ls
+: 1595315889:0;cd react-test
+: 1595315895:0;git checkout master
+: 1595315897:0;ls
+: 1595315901:0;git remote -v
+: 1595315910:0;git fetch
+: 1595315919:0;git push origin master
+: 1595315931:0;git branch -a
+: 1595315952:0;git checkout progress-bar
+: 1595315957:0;git push origin progress-bar
+: 1595315974:0;git checkout test
+: 1595315979:0;git push origin test
+: 1595316006:0;git branch -a
+: 1595316014:0;ls
+: 1595316023:0;git checkout master
+: 1595316034:0;cp package* ..
+: 1595316035:0;ls
+: 1595316051:0;git checkout test
+: 1595316052:0;ls
+: 1595316060:0;mv ../package* .
+: 1595316061:0;ls
+: 1595316063:0;git diff
+: 1595316067:0;git add .
+: 1595316081:0;git commit -m "updated packeages"
+: 1595316085:0;git checkout master
+: 1595316090:0;cp yarn.lock ..
+: 1595316095:0;git checkout test
+: 1595316104:0;mv ../yarn.lock .
+: 1595316112:0;git push origin test
+: 1595316126:0;git checkout progress-bar
+: 1595316131:0;git checkout test
+: 1595316134:0;cd ..
+: 1595316134:0;ks
+: 1595316136:0;ls
+: 1595316154:0;cd ../Github/ProgrammingZone
+: 1595316155:0;s
+: 1595316155:0;ls
+: 1595316167:0;cat SearchBox.js
+: 1595316181:0;ls
+: 1595316184:0;cat download_RHEL.txt
+: 1595316191:0;ls tmp
+: 1595316195:0;cd tmp
+: 1595316195:0;ls
+: 1595316197:0;cd programming-zone.github.io
+: 1595316197:0;ls
+: 1595316202:0;cd ..
+: 1595316203:0;ls
+: 1595316207:0;rm -rf programming-zone.github.io
+: 1595316254:0;ls
+: 1595316259:0;rm -rf ./*
+: 1595316263:0;ls
+: 1595316265:0;cd ..
+: 1595316266:0;ls
+: 1595316271:0;mv download_RHEL.txt tmp
+: 1595316279:0;mv SearchBox.js tmp
+: 1595316280:0;ls
+: 1595316282:0;cd ..
+: 1595316283:0;ls
+: 1595316288:0;cd TheOpenLinuxProject
+: 1595316289:0;ls
+: 1595316307:0;cd theopenlinux-logo
+: 1595316308:0;l
+: 1595316312:0;git fetch
+: 1595316326:0;git pull origin master
+: 1595316336:0;cd ../the-openlinux-project.github.io
+: 1595316341:0;git pull origin master
+: 1595316350:0;cd 
+: 1595316360:0;cd ~/Works/Github/TheOpenLinuxProject
+: 1595316361:0;ls
+: 1595316365:0;cd unix
+: 1595316366:0;ls
+: 1595316368:0;c d..
+: 1595316371:0;cd ..
+: 1595316371:0;l
+: 1595316380:0;du -h sample-os-master.zip
+: 1595316399:0;unzip sample-os-master.zip
+: 1595316400:0;ls
+: 1595316406:0;cd sample-os-master
+: 1595316406:0;ls
+: 1595316422:0;cd ..
+: 1595316424:0;ls
+: 1595316428:0;rm -rf sample-os-master
+: 1595316429:0;ls
+: 1595316450:0;exit
+: 1595316487:0;cd Github/ProgrammingZone
+: 1595316487:0;ls
+: 1595316492:0;cd code-snippets
+: 1595316495:0;git pull origin master
+: 1595316531:0;cd ..
+: 1595316532:0;ls
+: 1595316539:0;cd .
+: 1595316541:0;cd ..
+: 1595316542:0;ls
+: 1595316555:0;cd AdvancedCommunication
+: 1595316556:0;ls
+: 1595316577:0;cd ..
+: 1595316577:0;ls
+: 1595316584:0;cd Others
+: 1595316585:0;ls
+: 1595316595:0;cd mrasif.github.com
+: 1595316596:0;ls
+: 1595316615:0;git log  >>  ../log.txt
+: 1595316617:0;cd ..
+: 1595316621:0;cat log.txt
+: 1595316630:0;ls
+: 1595316639:0;exit
+: 1595319684:0;ll
+: 1595319764:0;ls
+: 1595326180:0;sudo apt-get update
+: 1595326479:0;sudo apt-get upgrade
+: 1595326488:0;sudo apt-get autoremove
+: 1595326493:0;sudo apt-get autoclean
+: 1595326498:0;sudo apt-get -s clean
+: 1595326523:0;ls
+: 1595326525:0;code .
+: 1595326557:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595326612:0;go build
+: 1595326619:0;./go-cli-demo
+: 1595326623:0;./go-cli-demo -help
+: 1595326680:0;ls
+: 1595326742:0;mv go* compiled
+: 1595326748:0;mv greeting compiled
+: 1595326749:0;ls
+: 1595326753:0;git add .
+: 1595326766:0;git commit -S -m "rearranged"
+: 1595326771:0;git push origin master
+: 1595326786:0;ls
+: 1595326796:0;git reset HEAD~
+: 1595326807:0;git reset --hard
+: 1595326813:0;mv go-cli-demo compiled
+: 1595326817:0;mv greeting compiled
+: 1595326818:0;ls
+: 1595326822:0;git add .
+: 1595326826:0;git commit -S -m "rearranged"
+: 1595326853:0;git reset HEAD~
+: 1595326869:0;git add .
+: 1595326871:0;git commit -S -m "rearranged"
+: 1595326878:0;git push origin master
+: 1595326923:0;ls
+: 1595326928:0;git push origin master
+: 1595335898:0;cd Github/mrinjamul
+: 1595335899:0;ls
+: 1595335922:0;clone-it git@github.com:mrinjamul/community-starter-kit.git
+: 1595335934:0;cd community-starter-kit
+: 1595335951:0;git fetch origin\
+git checkout -b add-issue-template origin/add-issue-template\
+git merge master
+: 1595335965:0;git checkout master\
+git merge --no-ff add-issue-template\
+git push origin master
+: 1595336059:0;cd ..
+: 1595336064:0;rm -rf community-starter-kit
+: 1595336413:0;clone-it git@github.com:mrinjamul/community-starter-kit.git
+: 1595338590:0;ls
+: 1595338593:0;git clone git clone https://github.com/mrinjamul/node-express-course.git
+: 1595338601:0;git clone https://github.com/mrinjamul/node-express-course.git
+: 1595338638:0;cd node-express-course
+: 1595338639:0;ls
+: 1595338647:0;code .
+: 1595338695:0;npm init -y
+: 1595338718:0;npm install express --save
+: 1595338745:0;git add .
+: 1595338767:0;git commit -S -m "initial file setup"
+: 1595338771:0;git push origin master
+: 1595338845:0;git remote -v
+: 1595338850:0;git remote remove origin
+: 1595338851:0;git remote -v
+: 1595338872:0;git remote add origin git@github.com:mrinjamul/node-express-course.git
+: 1595338875:0;git push origin master
+: 1595338922:0;vim 
+: 1595339035:0;ls
+: 1595339049:0;git add server.js\
+git commit -S -m"set up express server"\
+git push origin master
+: 1595339138:0;vim
+: 1595339206:0;ls
+: 1595339216:0;git add server.js\
+git commit -S -m"add first GET route"\
+git push origin master\
+
+: 1595339232:0;node server.js
+: 1595339300:0;vim server.js
+: 1595339314:0;node server.js
+: 1595339336:0;git add server.js\
+git commit -S -m"add dynamic GET route"\
+git push origin master
+: 1595339484:0;code .
+: 1595339511:0;git add server.js\
+git commit -S -m"add login POST route"\
+git push origin master
+: 1595339684:0;node server.js
+: 1595340232:0;git status
+: 1595340234:0;exit
+: 1595340247:0;node server.js
+: 1595340265:0;git add .
+: 1595340293:0;git commit -S -m "Add new endpoint "
+: 1595340296:0;git push origin master
+: 1595342631:0;cd ~/Works
+: 1595342631:0;ls
+: 1595342661:0;cd Works
+: 1595342662:0;ls
+: 1595342669:0;cd Github/linuxuserin
+: 1595342670:0;ls
+: 1595343243:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595343429:0;cd linuxuserin.github.io
+: 1595343432:0;git add .
+: 1595343433:0;ls
+: 1595343440:0;git branch -a
+: 1595343442:0;ls
+: 1595343453:0;git status -s
+: 1595343471:0;git commit -m "Update profile pictures"
+: 1595343475:0;git push origin develop
+: 1595343493:0;cat ../ssh-export.txt
+: 1595343499:0;export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'
+: 1595343501:0;cat ../ssh-export.txt
+: 1595343504:0;git push origin develop
+: 1595343953:0;ls
+: 1595343967:0;git fetch
+: 1595343989:0;vim 
+: 1595344199:0;ls
+: 1595344203:0;code .
+: 1595344218:0;ls
+: 1595344279:0;exit
+: 1595344957:0;git status
+: 1595344960:0;git add .
+: 1595344981:0;git commit -S -m "fix: Projects lists"
+: 1595344988:0;git checkout master
+: 1595344996:0;git pull origin master
+: 1595345016:0;git merge --no-ff develop
+: 1595345020:0;git push origin master
+: 1595345038:0;git checkout d
+: 1595345040:0;git checkout develop
+: 1595345044:0;git push origin develop
+: 1595345506:0;cat ssh-export.txt
+: 1595345512:0;export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'
+: 1595345523:0;git clone export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'
+: 1595345535:0;git clone git@github.com:linuxuserin/intro-html.git
+: 1595345593:0;cd intro-html
+: 1595345593:0;ls
+: 1595345595:0;cat style.css
+: 1595345645:0;ls
+: 1595345653:0;cp background.jpg ../linuxuserin.github.io
+: 1595345833:0;ls
+: 1595345835:0;cd ..
+: 1595345836:0;ls
+: 1595345998:0;git add .
+: 1595346014:0;git commit -S -m "add background image"
+: 1595346018:0;git push origin master
+: 1595346028:0;git push origin develop
+: 1595346165:0;ls
+: 1595346175:0;git commit --amend
+: 1595346201:0;git add .
+: 1595346202:0;git commit --amend
+: 1595346236:0;git push origin develop
+: 1595346524:0;ll
+: 1595346527:0;git push origin develop
+: 1595348660:0;git checkout master
+: 1595348664:0;git pull
+: 1595348677:0;git clone git@github.com:linuxuserin/hello-github-actions.git
+: 1595348730:0;git status
+: 1595348733:0;ls
+: 1595348738:0;mv hello-github-actions ..
+: 1595348742:0;cd ../hello-github-actions
+: 1595348742:0;ls
+: 1595348750:0;git checkout origin/linuxuserin-patch-1
+: 1595348751:0;ls
+: 1595348766:0;git checkout master
+: 1595348771:0;git fetch
+: 1595348790:0;git checkout linuxuserin-patch-1
+: 1595348791:0;ls
+: 1595348800:0;nano action-a/action.yml
+: 1595348815:0;git add .
+: 1595348841:0;git commit -S -m "create action.yml"
+: 1595348847:0;git push
+: 1595349036:0;git checkout master
+: 1595349041:0;git branch -D linuxuserin-patch-1
+: 1595349042:0;ls
+: 1595349075:0;git pull
+: 1595352163:0;cd ..
+: 1595352166:0;git clone git@github.com:linuxuserin/github-actions-for-ci.git
+: 1595352473:0;git checkout d241c7dd706ba10225c65f28ad6e091138756e93
+: 1595352479:0;cd github-actions-for-ci
+: 1595352480:0;git checkout d241c7dd706ba10225c65f28ad6e091138756e93
+: 1595352506:0;cat .github/workflows/node.js.yml
+: 1595352576:0;git checkout master
+: 1595352580:0;code .
+: 1595352919:0;git status
+: 1595352945:0;git checkout -b fix-node.yml
+: 1595352956:0;git add .
+: 1595352972:0;git commit -S -m  "update node.yml"
+: 1595352978:0;git push origin master
+: 1595352993:0;git push -u
+: 1595353002:0;git push origin fix-node.yml
+: 1595361376:0;git reset --hard
+: 1595361382:0;git log
+: 1595361405:0;git checkout 359ae70
+: 1595361406:0;ls
+: 1595361429:0;git checkout HEAD
+: 1595361443:0;git checkout fix-node.yml
+: 1595361452:0;git log
+: 1595361464:0;git reset HEAD~
+: 1595361471:0;git reset --hard
+: 1595361472:0;ls
+: 1595361644:0;git log
+: 1595361683:0;git checkout 4dd38cd5fb4495175857e0e7fd645c816ec614bf
+: 1595361699:0;cat .github/workflows/node.js
+: 1595361702:0;cat .github/workflows/node.js.yml
+: 1595361792:0;git checkout fix-node.yml
+: 1595361797:0;git reset --hard
+: 1595361799:0;ls
+: 1595361806:0;git pull
+: 1595361845:0;git push origin fix-node.yml
+: 1595361857:0;git pull origin fix-node.yml
+: 1595361865:0;git push origin fix-node.yml
+: 1595361955:0;cd .github/workflows
+: 1595361962:0;diff node.js\ copy.md node.js.yml
+: 1595362134:0;git commit -S -m "update node.yml"
+: 1595362143:0;git push origin fix-node.yml
+: 1595362296:0;git pull origin master
+: 1595362302:0;git pull origin fix-node.yml
+: 1595362683:0;git add node.js.yml
+: 1595362686:0;git commit -S -m "update node.yml"
+: 1595362692:0;git push origin fix-node.yml
+: 1595363791:0;git pull origin fix-node.yml
+: 1595363803:0;ls
+: 1595363817:0;cp node.js.yml ../
+: 1595363831:0;mv ../node.js.yml ../../..
+: 1595363832:0;ls
+: 1595363837:0;git checkout master
+: 1595363846:0;git pull origin master
+: 1595363859:0;ls
+: 1595363871:0;cp ../../../node.js.yml .
+: 1595363875:0;git diff
+: 1595363883:0;git add .
+: 1595363887:0;git push origin master
+: 1595363899:0;git commit -S -m "update node.yml"
+: 1595363902:0;git push origin master
+: 1595363916:0;git branch -D fix-node.yml
+: 1595363917:0;ls
+: 1595363919:0;git branch
+: 1595363922:0;git branch -a
+: 1595364607:0;cd ..
+: 1595364612:0;ls
+: 1595364614:0;rm node.js.yml
+: 1595364618:0;cd github-actions-for-ci
+: 1595364622:0;git branch -a
+: 1595364628:0;git fetch
+: 1595364639:0;git pull origin master
+: 1595364648:0;ls
+: 1595364667:0;cd ..
+: 1595364668:0;ls
+: 1595365862:0;docker pull docker.pkg.github.com/linuxuserin/github-actions-for-packages/tic-tac-toe:99f97251d0778b418977d994bd6d1f34093478c9
+: 1595366781:0;pip install tensorflow
+: 1595366860:0;cd ~
+: 1595366864:0;Dragon
+: 1595367317:0;ls
+: 1595367331:0;nano tf.txt
+: 1595367425:0;cat tf.txt
+: 1595367650:0;ls
+: 1595367657:0;mkdir tensorflow
+: 1595367658:0;cd tensorflow
+: 1595367659:0;ls
+: 1595367677:0;touch tensorflow.py
+: 1595367694:0;cat ../tf.txt >> tensorflow.py
+: 1595367698:0;cat tensorflow.py
+: 1595367771:0;ls
+: 1595367780:0;mkdir data
+: 1595367795:0;mv pokemon_alopez247.csv data/pokemon.csv
+: 1595367800:0;nano tensorflow.py
+: 1595367835:0;pwd
+: 1595367857:0;python3 tensorflow.py
+: 1595367888:0;python tensorflow.py
+: 1595367913:0;python
+: 1595367965:0;ls
+: 1595367967:0;python3 tensorflow.py
+: 1595368057:0;pip install tensorflow
+: 1595368073:0;pip install keras
+: 1595368084:0;python3 tensorflow.py
+: 1595368143:0;python3
+: 1595368428:0;cd ~/Works/Python/
+: 1595368429:0;l
+: 1595368435:0;python3
+: 1595368487:0;ls
+: 1595368510:0;cp ~/Works/Github/linuxuserin/tensorflow/data/pokemon.csv .
+: 1595368608:0;nano
+: 1595369154:0;cd ..
+: 1595369156:0;ls
+: 1595369161:0;git clone git@github.com:linuxuserin/TensorFlow-Pokemon-Course.git
+: 1595369178:0;cd TensorFlow-Pokemon-Course
+: 1595369179:0;ls
+: 1595369216:0;nano test-model.py
+: 1595369225:0;python3 test-model.py
+: 1595369250:0;cp ../tensorflow/data/pokemon.csv .
+: 1595369252:0;python3 test-model.py
+: 1595369311:0;echo "# TensorFlow-Pokemon-Course" > README.md
+: 1595369321:0;cat README.md
+: 1595369340:0;git commit -S -m "Initial commit"
+: 1595369346:0;git add README.md
+: 1595369347:0;git commit -S -m "Initial commit"
+: 1595369351:0;git push origin master
+: 1595369400:0;git status
+: 1595369423:0;git add .
+: 1595369436:0;git commit -S -m "Add Models"
+: 1595369438:0;git push origin master
+: 1595369453:0;ls
+: 1595369455:0;cd ..
+: 1595369455:0;ls
+: 1595369465:0;exit
+: 1595369478:0;ls 
+: 1595369481:0;cd TensorFlow-Pokemon-Course
+: 1595369491:0;python3 test-model.py
+: 1595369977:0;cd ..
+: 1595369979:0;ls
+: 1595369997:0;python3 
+: 1595372165:0;cat ~/.python_history
+: 1595372183:0;ls
+: 1595372190:0;cd TensorFlow-Pokemon-Course
+: 1595372191:0;ls
+: 1595372210:0;cp test-model.py image-processing.py
+: 1595372215:0;vim image-processing.py
+: 1595372273:0;python3 image-processing.py
+: 1595372282:0;vim image-processing.py
+: 1595372301:0;cat test-model.py
+: 1595372307:0;gedit image-processing.py
+: 1595372322:0;python3 image-processing.py
+: 1595372398:0;nano image-processing.py
+: 1595372413:0;python3 image-processing.py
+: 1595372462:0;git add .
+: 1595372483:0;git commit -S -m "Image Processing TensorFlow"
+: 1595372494:0;git push origin master
+: 1595372754:0;exit
+: 1595372782:0;ls
+: 1595372787:0;cd Works
+: 1595372789:0;ls
+: 1595372974:0;cat ~/.bin/Dragon
+: 1595372997:0;scp ~/.ssh/id_rsa_linuxuserin* injamul@104.45.134.47:/home/injamul/tmp/
+: 1595373013:0;scp ~/.ssh/id_rsa_linuxuserin* injamul@104.45.134.47:/home/injamul/
+: 1595373029:0;Dragon
+: 1595373162:0;cat Github/linuxuserin
+: 1595373167:0;cat Github/linuxuserin/ssh-export.txt
+: 1595394872:0;Dragon
+: 1595397620:0;cat ReactJs/react-clock/.gitignore
+: 1595400560:0;Dragon
+: 1595402111:0;ls
+: 1595402118:0;cd Github/linuxuserin
+: 1595402118:0;ls
+: 1595402132:0;git clone git@github.com:linuxuserin/my-reason-react-app\
+
+: 1595402148:0;cd my-reason-react-app
+: 1595402149:0;ls
+: 1595402157:0;git checkout setup
+: 1595402158:0;ls
+: 1595402161:0;yarn
+: 1595402209:0;code .
+: 1595402635:0;yarn
+: 1595402976:0;rm yarn.lock
+: 1595402977:0;yarn
+: 1595402992:0;ll
+: 1595403006:0;yarn
+: 1595403489:0;cat ../../linuxuserin/ssh-export.txt
+: 1595403494:0;export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'
+: 1595403496:0;ls
+: 1595403500:0;git add .
+: 1595403510:0;code .
+: 1595403529:0;git add lib/
+: 1595403546:0;git commit -S -m "Add built files from lib folder"
+: 1595403554:0;git push origin setup
+: 1595403593:0;yarn build
+: 1595403597:0;ll
+: 1595403605:0;git status -s
+: 1595403620:0;git add bundle\
+git commit -S --message "Add the built bundle folder"\
+git push origin setup\
+
+: 1595403675:0;yarn test
+: 1595403771:0;git add __tests__\
+git commit --message "Fix broken test"\
+git push origin setup
+: 1595408574:0;git status -s
+: 1595408596:0;git push origin setup
+: 1595408668:0;exit
+: 1595408673:0;ll
+: 1595408935:0;cd Github/linuxuserin
+: 1595408935:0;ls
+: 1595408947:0;cp TensorFlow-Pokemon-Course/image-processing.py ..
+: 1595408953:0;git@github.com:linuxuserin/TensorFlow-Course.git
+: 1595408958:0;clone-it git@github.com:linuxuserin/TensorFlow-Course.git
+: 1595408976:0;ls
+: 1595408985:0;cat ssh-export.txt
+: 1595408996:0;export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'\
+
+: 1595409009:0;mv ../image-processing.py ./TensorFlow-Course
+: 1595409014:0;cd TensorFlow-Course
+: 1595409017:0;git add .
+: 1595409034:0;git commit -S -m "add py files"
+: 1595409038:0;git push origin master
+: 1595409051:0;cd ..
+: 1595409052:0;ls
+: 1595409720:0;git clone git@github.com:linuxuserin/writing-javascript-actions.git
+: 1595409738:0;cd writing-javascript-actions
+: 1595409739:0;git checkout -b hello-world
+: 1595409745:0;mkdir -p .github/actions/hello-world
+: 1595409750:0;cd .github/actions/hello-world
+: 1595409755:0;npm init -y
+: 1595409764:0;npm install --save @actions/core
+: 1595409775:0;git add .\
+git commit -m 'add project dependencies'
+: 1595409780:0;git push -u origin hello-world
+: 1595409835:0;vim .github/actions/hello-world/action.yml
+: 1595409863:0;ls
+: 1595409878:0;touch -p .github/actions/hello-world/action.yml
+: 1595409880:0;ls
+: 1595409892:0;mkdir -p -p .github/actions/hello-world/
+: 1595409906:0;touch .github/actions/hello-world/action.yml
+: 1595409910:0;vim .github/actions/hello-world/action.yml
+: 1595409927:0;git add action.yml\
+git commit -m 'create action.yml'\
+git push
+: 1595409934:0;git add .
+: 1595409938:0;\
+git commit -m 'create action.yml'\
+git push
+: 1595410438:0;ls .github/actions/hello-world/action.yml
+: 1595410491:0;git status
+: 1595410507:0;nano .github/actions/hello-world/action.yml
+: 1595410521:0;git add .github/actions/hello-world/action.yml
+: 1595410535:0;git commit -m "update action.yml"
+: 1595410538:0;git push
+: 1595410619:0;ls
+: 1595410622:0;cd ..
+: 1595410622:0;ls
+: 1595410624:0;cd ..
+: 1595410630:0;cd writing-javascript-actions
+: 1595410632:0;ls
+: 1595410655:0;git reset --hard
+: 1595410662:0;git reset HEAD~
+: 1595410665:0;git status
+: 1595410668:0;git status -s
+: 1595410690:0;nautilus .
+: 1595410741:0;ls
+: 1595410742:0;tree
+: 1595410748:0;tree -la
+: 1595410777:0;git add .
+: 1595410791:0;git commit -S -m  "create action.yml"
+: 1595410800:0;git push origin hello-world -f
+: 1595410849:0;cd ..
+: 1595410853:0;cd writing-javascript-actions
+: 1595410855:0;code .
+: 1595410951:0;git add main.js\
+git -S commit -m 'create main.js'\
+git push
+: 1595410960:0;git add .\
+git -S commit -m 'create main.js'\
+git push
+: 1595410968:0;git add .\
+git commit -S -m 'create main.js'\
+git push
+: 1595411179:0;git commit -S -m 'allow input in all action files'
+: 1595411182:0;git push
+: 1595411551:0;git add .
+: 1595411574:0;git commit -S -m "update my-workflow.yml"
+: 1595411584:0;git push origin hello-world
+: 1595411641:0;ls
+: 1595411792:0;git fetch
+: 1595411841:0;git checkout master
+: 1595411845:0;git pull
+: 1595411852:0;git checkout action-two
+: 1595411872:0;mkdir -p .github/actions/joke-action
+: 1595411914:0;cd .github/actions/joke-action
+: 1595411918:0;npm init -y
+: 1595411924:0;npm install --save request request-promise @actions/core
+: 1595411944:0;git add .\
+git commit -S -m 'add joke action dependencies'\
+git push
+: 1595412089:0;git commit --amend
+: 1595412097:0;git add .
+: 1595412102:0;git commit --amend
+: 1595412105:0;ls
+: 1595412112:0;git add -A 
+: 1595412115:0;git commit --amend
+: 1595412126:0;git push origin action-two
+: 1595412321:0;git log --oneline
+: 1595412356:0;git add -A
+: 1595412365:0;git commit -S -m 'add metadata for the joke action'
+: 1595412371:0;git push
+: 1595412463:0;git add -A
+: 1595412474:0;git commit -S -m 'creating joke.js and main.js'
+: 1595412479:0;git push
+: 1595412609:0;git pull origin master
+: 1595412613:0;git pull origin action-two
+: 1595412740:0;git checkout master
+: 1595412744:0;git fetch
+: 1595412752:0;ls
+: 1595412759:0;cd ..
+: 1595412760:0;ls
+: 1595412769:0;git fetch
+: 1595412782:0;git pull origin master
+: 1595412879:0;git checkout master
+: 1595412881:0;cd ..
+: 1595412885:0;ls
+: 1595412891:0;git pull
+: 1595412900:0;git checkout action-three
+: 1595412920:0;mkdir -p .github/actions/issue-maker
+: 1595412934:0;cd .github/actions/issue-maker
+: 1595412942:0;ls
+: 1595412944:0;npm init -y
+: 1595412951:0;npm install --save @actions/core @actions/github
+: 1595413004:0;git add -A
+: 1595413011:0;git commit -S -m 'add issue maker dependencies'
+: 1595413018:0;git push
+: 1595413128:0;git add -A
+: 1595413136:0;git commit -S -m 'create action.yml'
+: 1595413142:0;git push
+: 1595414024:0;git add -A
+: 1595414030:0;git commit -S -m 'create index.js'
+: 1595414034:0;git push
+: 1595415065:0;git push 
+: 1595415203:0;git add .
+: 1595415217:0;git commit -S -m 'create index.js'
+: 1595415221:0;git push
+: 1595415320:0;git commit -S -m 'create index.js'
+: 1595415328:0;git add -A
+: 1595415329:0;git commit -S -m 'create index.js'
+: 1595415331:0;git push
+: 1595417939:0;git status
+: 1595417948:0;ls
+: 1595418012:0;git add .
+: 1595418021:0;git commit -S -m 'create index.js'
+: 1595418026:0;git push 
+: 1595418878:0;sudo npm install -g @zeit/ncc
+: 1595419047:0;ncc index.js
+: 1595419055:0;ncc build index.js
+: 1595419059:0;ls
+: 1595419087:0;git add .
+: 1595419113:0;git commit -S -m 'rid of node_modules use ncc'
+: 1595419139:0;git push 
+: 1595419271:0;git fetch origin\
+git checkout -b action-three origin/action-three\
+git merge master
+: 1595419285:0;git checkout master\
+git merge --no-ff action-three\
+git push origin master
+: 1595419322:0;git pull 
+: 1595419324:0;ls
+: 1595419326:0;cd ..
+: 1595419329:0;git pull 
+: 1595419341:0;git checkout master\
+git merge --no-ff action-three\
+git push origin master
+: 1595419371:0;git add .
+: 1595419376:0;git commit -m ""
+: 1595419379:0;git commit -m "fix"
+: 1595419389:0;git push origin master
+: 1595420641:0;exit
+: 1595431270:0;sh
+: 1595431471:0;cat /etc/shells
+: 1595431547:0;chsh -l
+: 1595431554:0;chsh --list-shells
+: 1595431779:0;cat /etc/shells
+: 1595431784:0;exit
+: 1595432942:0;nano ~/.hidden
+: 1595435629:0;docker pull docker.pkg.github.com/linuxuserin/github-actions-for-packages/tic-tac-toe:7c23cfdd9514c79bd188a4470218568db202e8a0
+: 1595436002:0;code 
+: 1595436727:0;cd Github/linuxuserin
+: 1595436727:0;ls
+: 1595436729:0;cat ssh-export.txt
+: 1595436735:0;export GIT_SSH_COMMAND='ssh -i /home/injamul/.ssh/id_rsa_linuxuserin'
+: 1595436758:0;clone-it git@github.com:linuxuserin/python-random-quote.git
+: 1595436798:0;cd python-random-quote
+: 1595436799:0;ls
+: 1595436801:0;code .
+: 1595436887:0;git add get-quote.py
+: 1595436891:0;git commit -m "Hello World"
+: 1595436896:0;git push
+: 1595437006:0;vim get-quote.py
+: 1595437038:0;python get-quote.py
+: 1595437045:0;git add get-quote.py
+: 1595437050:0;git commit -m "Renamed the primary function"
+: 1595437054:0;\
+git push
+: 1595437270:0;vim get-quote.py
+: 1595437374:0;l
+: 1595437377:0;cat quotes.txt
+: 1595437385:0;python get-quote.py
+: 1595437570:0;vim get-quote.py
+: 1595437614:0;python get-quote.py
+: 1595437633:0;vim get-quote.py
+: 1595437653:0;python get-quote.py
+: 1595437821:0;vim get-quote.py
+: 1595437842:0;python get-quote.py
+: 1595437849:0;vim get-quote.py
+: 1595437863:0;python get-quote.py
+: 1595437871:0;vim get-quote.py
+: 1595437964:0;python get-quote.py
+: 1595438035:0;vim get-quote.py
+: 1595438045:0;python get-quote.py
+: 1595438047:0;vim get-quote.py
+: 1595438056:0;python get-quote.py
+: 1595438062:0;vim get-quote.py
+: 1595438077:0;cat quotes.txt
+: 1595438082:0;vim get-quote.py
+: 1595438089:0;python get-quote.py
+: 1595438281:0;vim get-quote.py
+: 1595438402:0;python get-quote.py
+: 1595438410:0;git add get-quote.py
+: 1595438420:0;git commit -S -m "Random quote bot is working"
+: 1595438425:0;git push origin master
+: 1595438535:0;cd ..
+: 1595438536:0;ls
+: 1595438540:0;clone-it git@github.com:linuxuserin/intermediate-python-course.git
+: 1595438557:0;cd intermediate-python-course
+: 1595438558:0;ls
+: 1595438651:0;vim dice_roller.py
+: 1595438743:0;git add dice_roller.py
+: 1595438749:0;git commit -m "I uncommented line 2"
+: 1595438753:0;git push
+: 1595438854:0;vim dice_roller.py
+: 1595438904:0;python dice_roller.py
+: 1595438922:0;vim dice_roller.py
+: 1595438940:0;python dice_roller.py
+: 1595438966:0;python -v
+: 1595438979:0;python dice_roller.py
+: 1595439414:0;python -v
+: 1595439423:0;vim dice_roller.py
+: 1595439492:0;python dice_roller.py
+: 1595440130:0;cat dice_roller.py
+: 1595440145:0;vim dice_roller.py
+: 1595440170:0;python dice_roller.py
+: 1595440184:0;vim dice_roller.py
+: 1595440198:0;python dice_roller.py
+: 1595440250:0;vim dice_roller.py
+: 1595440293:0;python dice_roller.py
+: 1595440297:0;vim dice_roller.py
+: 1595440321:0;python dice_roller.py
+: 1595440330:0;git add dice_roller.py
+: 1595440336:0;git commit -m "Now rolling two dice"
+: 1595440340:0;git push
+: 1595440537:0;vim dice_roller.py
+: 1595440664:0;python dice_roller.py
+: 1595440693:0;vim dice_roller.py
+: 1595440731:0;python dice_roller.py
+: 1595440739:0;vim dice_roller.py
+: 1595440748:0;python dice_roller.py
+: 1595440818:0;git commit -m "update dice-roller\
+"
+: 1595440826:0;git commit -m "update dice-roller"
+: 1595440834:0;git commit -a -m "update dice-roller"
+: 1595440860:0;vim dice_roller.py
+: 1595440992:0;python dice_roller.py
+: 1595441025:0;\
+\
+git add dice_roller.py
+: 1595441034:0;git commit -S -m "Tutorial complete"
+: 1595441042:0;git push
+: 1595441476:0;cd ..
+: 1595441578:0;ruby -v
+: 1595441650:0;clone-it git@github.com:linuxuserin/ruby-course.git
+: 1595441689:0;cd ruby-course
+: 1595441690:0;ls
+: 1595441793:0;vim hello.rb
+: 1595441810:0;ruby hello.rb
+: 1595442029:0;git add .
+: 1595442034:0;git commit -m "Hello World"
+: 1595442039:0;git push
+: 1595442104:0;vim hello.rb
+: 1595442121:0;ruby hello.rb
+: 1595442132:0;git add .\
+git commit -m"add ruby methods"\
+git push
+: 1595442206:0;ll
+: 1595442212:0;vim montys-color.rb
+: 1595442251:0;ruby montys-color.rb
+: 1595442272:0;vim montys-color.rb
+: 1595442292:0;ruby montys-color.rb
+: 1595442372:0;vim montys-color.rb
+: 1595442393:0;git add .\
+git commit -m"add if statement"\
+git push
+: 1595442600:0;ls
+: 1595442605:0;vim montys-color.rb
+: 1595442643:0;git add .\
+git commit -m"add else statement"\
+git push
+: 1595442661:0;ruby montys-color.rb
+: 1595442700:0;cd ..
+: 1595442701:0;ls
+: 1595443113:0;git clone git@github.com:linuxuserin/php-course.git
+: 1595443248:0;ls
+: 1595443318:0;php -S localhost:8080 
+: 1595443320:0;fg
+: 1595443325:0;php -S localhost:8080 
+: 1595443349:0;ls
+: 1595443353:0;cat index.php
+: 1595443595:0;vim index.php
+: 1595443604:0;php -S localhost:8080 
+: 1595443615:0;ls
+: 1595443643:0;git add index.php\
+git commit -m"initial php setup"\
+git push origin master
+: 1595443783:0;ls
+: 1595443787:0;ls ..
+: 1595443820:0;git clone git@github.com:linuxuserin/java-course.git
+: 1595443834:0;ls
+: 1595443838:0;mv java-course ..
+: 1595443840:0;cd ..
+: 1595443841:0;ls
+: 1595443845:0;exit
+: 1595443883:0;cd ..
+: 1595443887:0;cd java-course
+: 1595443887:0;ls
+: 1595443892:0;javac custom_order.java
+: 1595443913:0;java custom_order
+: 1595444019:0;ls
+: 1595444022:0;exit
+: 1595444051:0;echo "" > index.php
+: 1595444054:0;nano index.php
+: 1595444071:0;git add index.php\
+git commit -m"add variables"\
+git push origin master
+: 1595444129:0;echo "" > index.php
+: 1595444132:0;vim index.php
+: 1595444224:0;echo "" > index.php
+: 1595444226:0;vim index.php
+: 1595444257:0;git add index.php\
+git commit -m"add foreach loop"\
+git push origin master
+: 1595444319:0;echo "" > index.php
+: 1595444321:0;vim index.php
+: 1595444332:0;git add index.php\
+git commit -m"add conditional statement"\
+git push origin master\
+
+: 1595444433:0;vim index.php
+: 1595444615:0;git add index.php\
+git commit -m"add tax calc function"\
+git push origin master
+: 1595444815:0;echo "" > index.php
+: 1595444817:0;vim index.php
+: 1595444864:0;git add .
+: 1595444880:0;git commit -S -m "update index.php"
+: 1595444886:0;git push origin master
+: 1595444940:0;cd ../java-course
+: 1595444957:0;ls
+: 1595445993:0;cd Works/
+: 1595446000:0;mkdir Electron
+: 1595446002:0;cd Electron
+: 1595446004:0;git clone https://github.com/electron/electron-quick-start
+: 1595446020:0;cd electron-quick-start
+: 1595446027:0;npm install && npm start
+: 1595446164:0;ls
+: 1595446166:0;cd ..
+: 1595446167:0;ls
+: 1595446174:0;zip -r electron-quick-start.zip electron-quick-start
+: 1595446191:0;ll
+: 1595446197:0;ls
+: 1595446211:0;mv electron-quick-start.zip ../Backups
+: 1595446212:0;ls
+: 1595446221:0;cd electron-quick-start
+: 1595446222:0;ls
+: 1595446243:0;npm  audit fix
+: 1595446256:0;npm start
+: 1595446465:0;npm run build
+: 1595446479:0;ls
+: 1595446494:0;cat index.html
+: 1595446514:0;ls
+: 1595446518:0;cat main.js
+: 1595446536:0;ls
+: 1595479337:0;sudo apt-get update --fix-missing
+: 1595479357:0;cat package.json
+: 1595479382:0;ls
+: 1595479398:0;exit
+: 1595479470:0;cd Works/Github/linuxuserin/linuxuserin.github.io
+: 1595479472:0;atom .
+: 1595479520:0;ls /tmp
+: 1595479527:0;rm -rf /tmp/*
+: 1595479535:0;ls /tmp
+: 1595479637:0;google-chrome index.html
+: 1595479701:0;wget https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg
+: 1595479711:0;du dev-badge.svg -h
+: 1595479822:0;code .
+: 1595480493:0;cd ~/Works/Electron
+: 1595480504:0;git clone https://github.com/jsmanifest/electron-react-app.git
+: 1595481173:0;git status -s
+: 1595481177:0;git add .
+: 1595481178:0;git status -s
+: 1595481206:0;git commit -S -m "create social badges"
+: 1595481212:0;git branch -a
+: 1595481217:0;git push origin master
+: 1595481230:0;cat ../ssh-export.txt
+: 1595481241:0;source ../ssh-export.txt
+: 1595481242:0;cat ../ssh-export.txt
+: 1595481244:0;git push origin master
+: 1595481264:0;git checkout develop
+: 1595481268:0;git pull origin master
+: 1595481280:0;git push origin develop
+: 1595481607:0;du -h assets/background.jpg
+: 1595481802:0;git checkout -b change-background
+: 1595481811:0;git add .
+: 1595481853:0;git commit -S -m "background changed to black&while"
+: 1595481859:0;git push origin change-background
+: 1595481901:0;git checkout develop
+: 1595482030:0;git checkout change-background
+: 1595482053:0;git checkout develop
+: 1595482665:0;ls
+: 1595482674:0;exit
+: 1595482676:0;ls
+: 1595482679:0;cd ..
+: 1595482679:0;lls
+: 1595482681:0;ls
+: 1595482682:0;cd java-course
+: 1595482683:0;ls
+: 1595482890:0;exit
+: 1595482901:0;cd ../../mrinjamul
+: 1595482902:0;ls
+: 1595482917:0;cat mrinjamul/matrix.svg
+: 1595482929:0;sl
+: 1595483628:0;locate gif
+: 1595483646:0;locate gif | grep zip
+: 1595483725:0;ls
+: 1595484671:0;exit
+: 1595484673:0;sl
+: 1595484687:0;ls
+: 1595484734:0;vim custom_order.
+: 1595484746:0;vim custom_order.java
+: 1595484945:0;javac custom_order.java
+: 1595484953:0;java custom_order
+: 1595485027:0;vim custom_order.java
+: 1595485283:0;javac custom_order.java
+: 1595485288:0;java custom_order
+: 1595485379:0;vim custom_order.java
+: 1595485459:0;javac custom_order.java
+: 1595485466:0;java custom_order
+: 1595485602:0;git add custom_order.java\
+git commit -m"add cupcake shop"\
+git push origin master
+: 1595485911:0;vim custom_order.java
+: 1595485999:0;ls
+: 1595486001:0;cd ..
+: 1595486084:0;exit
+: 1595486106:0;sudo apt-get update --fix-missing
+: 1595486156:0;sudo apt-get upgrade
+: 1595486353:0;source ../ssh-export.txt
+: 1595486355:0;ls
+: 1595486369:0;mv My\ banner.png banner.png
+: 1595486388:0;git status -s
+: 1595486392:0;git add .
+: 1595486410:0;git commit -S -m "update Banner"
+: 1595486416:0;git push origin master
+: 1595486451:0;git log --oneline
+: 1595486461:0;git checkout 7d43160
+: 1595486466:0;du -h banner.png
+: 1595486475:0;git checkout master\
+git merge --no-ff action-three\
+git push origin master
+: 1595486488:0;ls
+: 1595486491:0;du -h banner.png
+: 1595486497:0;exit
+: 1595486614:0;sudo apt-get upgrade
+: 1595487164:0;sudo apt-get full-upgrade
+: 1595487246:0;cd Works/ReactJs
+: 1595487246:0;ls
+: 1595487258:0;code  react-login-page
+: 1595487387:0;npm start
+: 1595487397:0;ls
+: 1595487466:0;npm install react react-dom react-scripts
+: 1595487974:0;reboot
+: 1595488585:0;npm install react@latest react-dom@latest react-scripts@latest
+: 1595490135:0;npm audit fix
+: 1595490202:0;npm i
+: 1595490618:0;curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -\
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+: 1595490636:0;sudo apt-get update
+: 1595490651:0;sudo apt-get full-upgrade -y
+: 1595490661:0;sudo apt-get install yarn
+: 1595490667:0;sudo apt-get autoremove
+: 1595490688:0;npm audit fix
+: 1595490734:0;npm install -g npm
+: 1595490801:0;sudo npm install -g npm
+: 1595490811:0;sudo apt-get autoclean
+: 1595490816:0;sudo apt-get clean
+: 1595490820:0;sudo apt-get -s  clean
+: 1595490897:0;npm start
+: 1595491374:0;cd Works
+: 1595491424:0;atom Firebase/firebase-web-login
+: 1595491791:0;git log --oneline
+: 1595491823:0;git checkout 51b3b06
+: 1595491841:0;git checkout master
+: 1595491900:0;ls
+: 1595491951:0;cd ReactJs/react-login-page
+: 1595491952:0;ls
+: 1595492033:0;firebase login
+: 1595492066:0;firebase init
+: 1595492171:0;git reset --hard
+: 1595492174:0;firebase init
+: 1595492332:0;npm run build
+: 1595492376:0;exit
+: 1595492380:0;ls
+: 1595492383:0;git status -s
+: 1595492386:0;git add .
+: 1595492398:0;firebase deploy
+: 1595492549:0;git add .
+: 1595492587:0;git commit -S -m "++firebase"
+: 1595492592:0;git push origin master
+: 1595492836:0;npm run deploy
+: 1595492977:0;ls
+: 1595492995:0;npm install firebase
+: 1595493021:0;cp ../../Firebase/react-hook-firebase/src/firebase.js
+: 1595493053:0;cat ../../Firebase/react-hook-firebase/src/firebase.js
+: 1595493108:0;exit
+: 1595494538:0;npm audit fix
+: 1595501098:0;git checkout 7ea4af0
+: 1595502916:0;code ~/Works/Firebase/firebase-web-login
+: 1595502943:0;atom Firebase/firebase-web-login
+: 1595502971:0;atom ../../Firebase/firebase-web-login
+: 1595504683:0;cat ../../Firebase/firebase-web-login/public/app.js
+: 1595504835:0;cat ../../Firebase/firebase-web-login/public/index.html
+: 1595507055:0;ls
+: 1595507073:0;git checkout -b dev
+: 1595507076:0;ls
+: 1595507137:0;git stash save
+: 1595507151:0;git checkout master
+: 1595507152:0;ls
+: 1595507192:0;npm run deploy
+: 1595507370:0;git checkout dev
+: 1595507377:0;git status -s
+: 1595507388:0;git stash apply
+: 1595507390:0;git status -s
+: 1595507402:0;git stash pop
+: 1595507427:0;git stash list
+: 1595507466:0;git reset --hard
+: 1595507468:0;git stash pop
+: 1595507478:0;git stash list
+: 1595507483:0;git stash clear
+: 1595507491:0;ls
+: 1595507493:0;exit
+: 1595507514:0;cd Works
+: 1595507515:0;ls
+: 1595508397:0;ls Github/linuxuserin/linuxuserin.github.io/assets/background.jpg
+: 1595508867:0;Dragon
+: 1595510110:0;ls
+: 1595520114:0;mv github-logo\ \(copy\).svg edit.svg
+: 1595520125:0;nano edit.svg
+: 1595546002:0;service --help
+: 1595546018:0;service --status-all
+: 1595546173:0;nano ~/temp/list-all-services.txt
+: 1595546205:0;exit
+: 1595593843:0;wineconsole
+: 1595593863:0;exit
+: 1595593987:0;sudo apt-get install wine32
+: 1595594051:0;ping google.com
+: 1595594720:0;sudo apt-get install wine32
+: 1595595011:0;sl
+: 1595595016:0;cd Works
+: 1595595248:0;cd scripts/tmp
+: 1595595248:0;ls
+: 1595595252:0;git clone https://gist.github.com/4080362.git
+: 1595595256:0;ls
+: 1595595258:0;cd 4080362
+: 1595595258:0;ls
+: 1595595267:0;git log
+: 1595595275:0;cd ..
+: 1595595284:0;exit
+: 1595595289:0;cd Works
+: 1595595301:0;sudo apt-get autoremove
+: 1595595304:0;sudo apt-get autoclean
+: 1595595307:0;sudo apt-get clean
+: 1595595311:0;sudo apt-get -s clean
+: 1595595316:0;sudo apt-get update
+: 1595595339:0;sudo apt-get full-upgrade
+: 1595597637:0;ls
+: 1595599751:0;sudo apt-get full-upgrade
+: 1595607140:0;sudo apt-get autoremove
+: 1595607143:0;sudo apt-get autoclean
+: 1595607146:0;sudo apt-get clean
+: 1595607150:0;sudo apt-get -s clean
+: 1595608689:0;lynx
+: 1595608722:0;lynx google.com
+: 1595610215:0;cd ReactJs
+: 1595610220:0;cd react-demo1
+: 1595610223:0;ls
+: 1595610228:0;git push origin test
+: 1595610307:0;git fetch
+: 1595610317:0;git remote -v
+: 1595610364:0;git remote add programming-zone git@github.com:programming-zone/react-demo.git
+: 1595610376:0;git push programming-zone master
+: 1595610389:0;git push programming-zone test
+: 1595610422:0;ping google.com
+: 1595610428:0;exit
+: 1595610439:0;git checkout master
+: 1595610440:0;ls
+: 1595610454:0;git log
+: 1595610501:0;git checkout test
+: 1595610503:0;git log
+: 1595610532:0;git fetch programming-zone
+: 1595610594:0;exit
+: 1595610603:0;cd Works
+: 1595610610:0;ls
+: 1595613810:0;cd go/CommandLine/go-cli-demo
+: 1595613811:0;ls
+: 1595613816:0;git log 
+: 1595616080:0;code .
+: 1595616242:0;export PATH=/usr/lib/go-1.13/bin:$PATH
+: 1595616242:0;clear
+: 1595616418:0;go build
+: 1595616423:0;./go-cli-demo
+: 1595616428:0;./go-cli-demo help
+: 1595616445:0;git add .
+: 1595616470:0;git commit -S -m "Subcommands"
+: 1595616476:0;git push origin master
+: 1595616517:0;sudo apt-get update
+: 1595616600:0;git status
+: 1595616628:0;git commit --amend
+: 1595616634:0;git status
+: 1595616637:0;git add .
+: 1595616638:0;git status
+: 1595616642:0;git commit --amend
+: 1595616646:0;git status
+: 1595616660:0;git push origin master
+: 1595616680:0;ls /tmp
+: 1595616690:0;exit
+: 1595620927:0;cd Works/go/CommandLine/go-cli-demo
+: 1595620930:0;git push origin master
+: 1595656898:0;ls
+: 1595658666:0;astu 
+: 1595658670:0;bash
+: 1595663415:0;Wvil
+: 1595663426:0;Evil
+: 1595663518:0;ls
+: 1595663522:0;Dragon
+: 1595663553:0;ls
+: 1595663567:0;exit
+: 1595666392:0;sudo apt-get update
+: 1595666440:0;sudo apt-get full-upgrade
+: 1595666450:0;sudo apt-get autoremove
+: 1595666453:0;sudo apt-get autoclean
+: 1595666456:0;sudo apt-get update
+: 1595672112:0;ls
+: 1595676356:0;cd Works
+: 1595676376:0;cd Works/ReactJs
+: 1595676382:0;cd react-demo1
+: 1595676383:0;ls
+: 1595676389:0;git push programming-zone master
+: 1595676404:0;git pull programming-zone master
+: 1595676430:0;git add .
+: 1595676441:0;git commit -m "fix conficts"
+: 1595676459:0;git loog
+: 1595676462:0;git log
+: 1595676486:0;git push programming-zone test
+: 1595676533:0;git checkout master
+: 1595676543:0;git pull programming-zone master
+: 1595676560:0;git add .
+: 1595676571:0;git commit -m "fix conficts"
+: 1595676580:0;git push programming-zone master
+: 1595676611:0;git remote remove origin
+: 1595676615:0;git remote -v
+: 1595676634:0;git remote add origin git@github.com:programming-zone/react-demo.git
+: 1595676644:0;git remote remove programming-zone
+: 1595676648:0;git remote -v
+: 1595676657:0;git branch -a
+: 1595676662:0;git fetch
+: 1595676716:0;ls
+: 1595676726:0;cd ..
+: 1595676740:0;mv react-demo{1,}
+: 1595676754:0;cd react-demo
+: 1595676756:0;ls
+: 1595676758:0;cd ..
+: 1595676758:0;ls
+: 1595699851:0;python3 tensorflow.py
+: 1595699854:0;ls
+: 1595699861:0;sudo apt-get update
+: 1595699901:0;sudo apt-get upgrade
+: 1595699934:0;ls
+: 1595701085:0;cd ..
+: 1595701087:0;ll
+: 1595720479:0;ps -eo 'tty,pid,comm' | grep ^?
+: 1595720562:0;ps -eo 'tty,pid,comm'
+: 1595771436:0;ls
+: 1595775192:0;lynx --help
+: 1595775210:0;man lynx 
+: 1595775270:0;ls
+: 1595775350:0;ll
+: 1595775359:0;cd .oh-my-zsh
+: 1595775362:0;git status
+: 1595775373:0;git log 
+: 1595775408:0;ls
+: 1595775426:0;htop
+: 1595775466:0;sudo apt-get update
+: 1595775510:0;cd 
+: 1595775566:0;ping www.google.com
+: 1595777965:0;ps aux | grep gnome
+: 1595778068:0;ls /dev/pts/
+: 1595778073:0;ls /dev/pts/0
+: 1595779520:0;ping 192.168.1.1
+: 1595779726:0;ping -c 10 192.168.1.1
+: 1595779759:0;ping www.google.com
+: 1595861689:0;atom -v
+: 1595862021:0;cd Works/
+: 1595862048:0;cat Github/ProgrammingZone/programming-zone.github.io/src/components/Repo.jsx
+: 1595862114:0;curl https://api.github.com/orgs/atom/repos --output ~/temp/atom-repo.txt
+: 1595863061:0;cat ~/temp/atom-repo.txt
+: 1595863090:0;ls
+: 1595864778:0;Dragon
+: 1595864887:0;cd Backups/BootStrap
+: 1595864890:0;wget  https://github.com/programming-zone/bootstrap/archive/v5.0.0-alpha1.tar.gz
+: 1595870223:0;sudo apt-get update
+: 1595870245:0;sudo apt-get upgrade
+: 1595872621:0;cd ../..
+: 1595872622:0;;s
+: 1595872623:0;ls
+: 1595872627:0;cd OS-Dev
+: 1595872628:0;ls
+: 1595872653:0;mkdir unix
+: 1595872655:0;cd unix/
+: 1595872665:0;git clone git://github.com/mit-pdos/xv6-riscv.git
+: 1595872698:0;git clone git://github.com/mit-pdos/xv6-riscv-book.git
+: 1595872844:0;git clone git@github.com:riscv/riscv-gnu-toolchain.git
+: 1595872870:0;cd riscv-gnu-toolchain
+: 1595872875:0;git submodule update --init --recursive
+: 1595873270:0;ls
+: 1595873272:0;cd ..
+: 1595873272:0;;
+: 1595873274:0;ls
+: 1595873277:0;cd ..
+: 1595873278:0;ls
+: 1595873280:0;ls linux
+: 1595873285:0;mdkir old-linux
+: 1595873291:0;mkdir old-linux
+: 1595873293:0;cd old-linux
+: 1595873294:0;;s
+: 1595873300:0;git clone https://github.com/yuan-xy/Linux-0.11.git
+: 1595873476:0;cd ~
+: 1595873478:0;Dragon
+: 1595873493:0;ls
+: 1595873509:0;mv ~/Downloads/linux-0.11.tar.gz .
+: 1595873523:0;ls
+: 1595873682:0;it
+: 1595873684:0;exit
+: 1595873716:0;mv ~/Downloads/linux-0.01.tar.gz .
+: 1595873769:0;mv ~/Downloads/linux-0.96c.tar.gz .
+: 1595873861:0;ls
+: 1595873863:0;cd ..
+: 1595873883:0;tar cvf  old-linux old-linux.tar.gz
+: 1595873889:0;tar cvf  old-linux
+: 1595873922:0;tar  cvf  old-linux.tar.gz old-linux
+: 1595873926:0;ls
+: 1595873936:0;du -lh old-linux.tar.gz
+: 1595873946:0;mv old-linux.tar.gz /mnt/Storage/Operating\ System
+: 1595873948:0;ls
+: 1595873969:0;du -lh unix
+: 1595874046:0;ls
+: 1595874048:0;cd..
+: 1595874051:0;cd ..
+: 1595874051:0;ls
+: 1595874067:0;rm -rf riscv-gnu-toolchain
+: 1595874069:0;ls
+: 1595874084:0;cd ..
+: 1595874087:0;du -lh unix
+: 1595874121:0;tar cvf unix unix_xv6.tar.gz
+: 1595874155:0;tar cvf unix_xv6.tar.gz unix
+: 1595874178:0;mv unix_xv6.tar.gz /mnt/Storage/Operating\ System
+: 1595874180:0;ls
+: 1595874191:0;du -lh /mnt/Storage/Operating\ System/unix_xv6.tar.gz
+: 1595874379:0;exit
+: 1595874387:0;ls
+: 1595874992:0;sudo apt-get update
+: 1595875010:0;sudo apt-get upgrade
+: 1595875166:0;du -la ~/Works 
+: 1595875176:0;du -lah ~/Works 
+: 1595876934:0;cd OS-Dev/old-linux
+: 1595876935:0;ls
+: 1595876938:0;cd Linux-0.11
+: 1595876940:0;ls
+: 1595876942:0;make
+: 1595876948:0;make help
+: 1595876957:0;make start
+: 1595876972:0;make --generate
+: 1595910048:0;ls
+: 1595910057:0;exit
+: 1595910075:0;reboot
+: 1595910648:0;sudo apt-get update
+: 1595916850:0;sudo apt-get upgrade
+: 1595916858:0;git --version
+: 1595917688:0;cd Works/Github/ProgrammingZone
+: 1595917689:0;ls
+: 1595917694:0;git clone git@github.com:programming-zone/git-manual.git
+: 1595917715:0;mv ~/Downloads/htmldocs-gh-pages.zip .
+: 1595917724:0;unzip htmldocs-gh-pages.zip
+: 1595917726:0;ls
+: 1595917744:0;mv htmldocs-gh-pages.zip ../../HTML
+: 1595917745:0;ls
+: 1595917755:0;tree -a htmldocs-gh-pages
+: 1595917769:0;ls
+: 1595917781:0;cp -rf htmldocs-gh-pages/* git-manual
+: 1595917785:0;cd git-manual
+: 1595917788:0;git status
+: 1595917791:0;git add -A
+: 1595917817:0;git commit -S -m "Add git manual"
+: 1595917820:0;ls
+: 1595917835:0;source ../../linuxuserin/ssh-export.txt
+: 1595917844:0;git push origin master
+: 1595917880:0;ls
+: 1595917883:0;cd Works
+: 1595917884:0;l
+: 1595918414:0;sudo apt-get update
+: 1595918470:0;sudo apt-get full-upgrade
+: 1595918480:0;l
+: 1595918678:0;deskopen
+: 1595918692:0;sudo apt-get install deskopen
+: 1595918702:0;deskopen
+: 1595918710:0;gtk-launch
+: 1595918832:0;cd ~/Injamul/Software/tor-browser_en-US
+: 1595918834:0;cd Browser
+: 1595918836:0;./start-tor-browser
+: 1595919665:0;cd /mnt/Storage/Documents/Identities
+: 1595919667:0;ls
+: 1595919678:0;cat tor/default/Walter_R_Phillips-usable.txt
+: 1595922109:0;exit
+: 1595922131:0;reboot -p
+: 1595923218:0;cd Works
+: 1595923220:0;l
+: 1595923230:0;diff --help
+: 1595923333:0;diff -qr ~/Works/ /mnt/Storage/Projects 
+: 1595923381:0;cat ~/.bin/backup-Works.sh
+: 1595923483:0;backup-Works.sh ls
+: 1595923488:0;backup-Works.sh 
+: 1595923761:0;l
+: 1595923772:0;backup-Works.sh ReactJs
+: 1595924313:0;backup-Works.sh go
+: 1595924389:0;backup-Works.sh ls
+: 1595924399:0;backup-Works.sh Github
+: 1595924722:0;cd ~
+: 1595924839:0;backup-Works.sh Github
+: 1595924849:0;htop
+: 1595926229:0;exit
+: 1595927060:0;ls
+: 1595927064:0;htop
+: 1595927083:0;ls
+: 1595927093:0;exit
+: 1595927455:0;nano
+: 1595927725:0;cd go
+: 1595927727:0;ld
+: 1595927729:0;ls
+: 1595927740:0;cd ../Works/go
+: 1595927760:0;git clone https://github.com/martensonbj/fem-intro-to-go.git 
+: 1595927770:0;exit
+: 1595927777:0;cd fem-intro-to-go
+: 1595927779:0;ls
+: 1595927842:0;sl
+: 1595927862:0;ls
+: 1595927865:0;go run main.go
+: 1595927889:0;ls
+: 1595938527:0;cd /opt
+: 1595938528:0;ls
+: 1595938532:0;cd newbtfix-4.15
+: 1595938533:0;ls
+: 1595938537:0;cat README.md
+: 1595938545:0;git status -s
+: 1595938556:0;git diff
+: 1595938564:0;ls
+: 1595938581:0;sudo apt install git build-essential dkms
+: 1595938599:0;cd ..
+: 1595938602:0;ls
+: 1595938609:0;sudo dkms add ./newbtfix-4.15
+: 1595938620:0;sudo dkms install btusb/4.0
+: 1595938637:0;ls
+: 1595938646:0;ls containerd
+: 1595938655:0;sudo su -
+: 1595938698:0;ls
+: 1595938705:0;ls -la 
+: 1595938710:0;ls
+: 1595938716:0;cd ..
+: 1595938719:0;ls
+: 1595938730:0;cd Hash
+: 1595938731:0;ls
+: 1595938735:0;cd ..
+: 1595938736:0;ls
+: 1595938767:0;msf
+: 1595938769:0;bash
+: 1595938786:0;ls
+: 1595939166:0;hciconfig
+: 1595939176:0;hciconfig hci0 up
+: 1595939182:0;sudo hciconfig hci0 up
+: 1595939198:0;hcitool scan
+: 1595939388:0;ls
+: 1595939393:0;hcitool scan
+: 1595939403:0;sudo hcitool scan
+: 1595939424:0;Dragon
+: 1595939433:0;exit
+: 1595939713:0;ls
+: 1595939857:0;curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \\
+  chmod 755 msfinstall && \\
+  ./msfinstall
+: 1595939870:0;ls
+: 1595939874:0;curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \\
+  chmod 755 msfinstall && \\
+  ./msfinstall
+: 1595939899:0;sudo apt-get update
+: 1595939920:0;sudo apt-get upgrade
+: 1595939934:0;sudo apt-get install metasploit-framework 
+: 1595939951:0;ls
+: 1595939956:0;mv msfinstall Ha
+: 1595939967:0;mv Ha msfinstall 
+: 1595939972:0;mv msfinstall Hash
+: 1595939973:0;ls
+: 1595940006:0;exit
+: 1595940021:0;cd Works
+: 1595940068:0;Dragon
+: 1595940783:0;macchanger
+: 1595940795:0;sudo ip a
+: 1595940912:0;df -lh
+: 1595941058:0;cd /mnt/Storage/Tutorials
+: 1595941062:0;ls 
+: 1595941069:0;tree | hacking
+: 1595941074:0;tree | grep hacking
+: 1595941084:0;tree | grep ack
+: 1595941094:0;mkdir Hack
+: 1595941122:0;mv /home/injamul/Downloads/Hack\ Hotel,\ Airplane\ \&\ Coffee\ Shop\ Hotspots\ for\ Free\ Wi-Fi\ with\ MAC\ Spoofing\ \[Tutorial\].mp4 .
+: 1595941123:0;ls
+: 1595941132:0;mv Hack\ Hotel,\ Airplane\ \&\ Coffee\ Shop\ Hotspots\ for\ Free\ Wi-Fi\ with\ MAC\ Spoofing\ \[Tutorial\].mp4 Hack
+: 1595941134:0;cd H
+: 1595941136:0;cd Hack
+: 1595941137:0;ls
+: 1595942127:0;vlc Hack\ Hotel,\ Airplane\ \&\ Coffee\ Shop\ Hotspots\ for\ Free\ Wi-Fi\ with\ MAC\ Spoofing\ \[Tutorial\].mp4
+: 1595942478:0;ip a
+: 1595943367:0;sudo apt-get install macchanger
+: 1595943522:0;macchancher
+: 1595943543:0;macchanger
+: 1595943545:0;macchanger 
+: 1595943550:0;macchanger help
+: 1595943565:0;macchanger --help
+: 1595943574:0;macchanger --show
+: 1595943586:0;macchanger --version
+: 1595943610:0;ifconfig a
+: 1595943621:0;ifconfig 
+: 1595943659:0;ifconfig a
+: 1595943664:0;ifconfig --help
+: 1595943669:0;ifconfig -a
+: 1595943811:0;ls
+: 1595943817:0;aircrack-ng
+: 1595944906:0;ll
+: 1595949002:0;exit
+: 1595949610:0;tmux
+: 1595949663:0;exit
+: 1595949707:0;htop
+: 1595949715:0;neofetch
+: 1595949802:0;exit
+: 1595949951:0;Dragon
+: 1595950665:0;ls /mnt/Storage/Multimedia/Videos
+: 1595950670:0;exit
+: 1595950676:0;tmux
+: 1595950680:0;Dragon
+: 1595950739:0;exit
+: 1595950764:0;tmux ls
+: 1595950769:0;tmux help
+: 1595950775:0;tmux --help
+: 1595950782:0;man tmux
+: 1595950857:0;cd ~/Injamul/Software
+: 1595950858:0;ls
+: 1595950865:0;cd ../Documents
+: 1595950866:0;ls
+: 1595950868:0;cd Private-project
+: 1595950870:0;ls
+: 1595950880:0;tree
+: 1595950948:0;git status
+: 1595950951:0;ls
+: 1595950956:0;ls .gitignore
+: 1595950961:0;cat .gitignore
+: 1595951252:0;ls
+: 1595951258:0;cd ..
+: 1595951258:0;ls
+: 1595951272:0;cd ..
+: 1595951272:0;ls
+: 1595951280:0;du -lh Documents
+: 1595951314:0;# rsync ~/Injamul/Documents /media/injamul/INJAMUL/Documents
+: 1595951323:0;ls /media/injamul/INJAMUL/Documents
+: 1595951330:0;rsync ~/Injamul/Documents /media/injamul/INJAMUL/Documents
+: 1595951342:0;ls /media/injamul/INJAMUL/Documents
+: 1595951357:0;cat .bin/works-to-pendrive.sh
+: 1595951374:0;rsync -avz --dry-run ~/Injamul/Documents /media/injamul/INJAMUL/Documents
+: 1595951387:0;rsync -avz ~/Injamul/Documents /media/injamul/INJAMUL/Documents
+: 1595951456:0;rsync -avz /media/injamul/INJAMUL/Private_project ~/Injamul/Private_project
+: 1595951459:0;ls
+: 1595951463:0;cd Private_project
+: 1595951464:0;ls
+: 1595951468:0;cd Private_project
+: 1595951469:0;ls
+: 1595951472:0;cd ..
+: 1595951473:0;ls
+: 1595951474:0;cd ..
+: 1595951475:0;ls
+: 1595951491:0;mv Private_projec{t,s}
+: 1595951494:0;cd Private_projecs
+: 1595951495:0;ls
+: 1595951498:0;mv Private_project ..
+: 1595951499:0;cd ..
+: 1595951500:0;ls
+: 1595951508:0;rmdir Private_projecs 
+: 1595951509:0;ls
+: 1595951510:0;cd Private_project
+: 1595951511:0;ls
+: 1595951513:0;cd Software
+: 1595951513:0;ls
+: 1595951523:0;clone-it git@github.com:gcxtx/Zoom.git
+: 1595951537:0;exit
+: 1595951539:0;ls
+: 1595951567:0;rsync -avz ~/Injamul/Private_project /media/injamul/INJAMUL/Private_project
+: 1595951591:0;ls
+: 1595951594:0;cd Zoom
+: 1595951597:0;./zoom.py
+: 1595951605:0;chmod +x zoom.py
+: 1595951607:0;./zoom.py
+: 1595951630:0;./zoom.py python zoom.py -u <website> --auto
+: 1595951875:0;./zoom.py python zoom.py -u https://mahafujulhaque.xyz/ --auto
+: 1595951878:0;./zoom.py python zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595951915:0;pip requirements.txt
+: 1595951957:0;pip install requirements.txt
+: 1595952246:0;pip -r install requirements.txt
+: 1595952252:0;pip  install -r requirements.txt
+: 1595952276:0;./zoom.py python zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952298:0;python zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952305:0;python3 zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952319:0;./zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952332:0;pip
+: 1595952336:0;pip  install -r requirements.txt
+: 1595952348:0;ls
+: 1595952358:0;chmod +x *.py
+: 1595952360:0;ls
+: 1595952364:0;./zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952389:0;which requests
+: 1595952399:0;which req
+: 1595952408:0;whcih requests
+: 1595952411:0;which requests
+: 1595952418:0;exit
+: 1595952424:0;cd ~/Injamul
+: 1595952426:0;ls
+: 1595952428:0;cd Private_project
+: 1595952428:0;s
+: 1595952430:0;cd Software
+: 1595952430:0;ls
+: 1595952636:0;cd Zoom
+: 1595952636:0;ls
+: 1595952642:0;./zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952656:0;python2.7 zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952661:0;python2 zoom.py -u https://mahafujulhaque.xyz --auto
+: 1595952663:0;ls
+: 1595952677:0;git reset --hard
+: 1595952678:0;ls
+: 1595952681:0;exit
+: 1595953012:0;cd /media/injamul/INJAMUL/Private_project
+: 1595953013:0;ls
+: 1595953017:0;cd Software
+: 1595953017:0;l
+: 1595953018:0;ld
+: 1595953020:0;ls
+: 1595953025:0;cd knock
+: 1595953026:0;l
+: 1595953029:0;cd ..
+: 1595953029:0;ls
+: 1595953041:0;rsync -avz ~/Injamul/Private_project /media/injamul/INJAMUL/Private_project
+: 1595953045:0;ls
+: 1595953048:0;cd ..
+: 1595953049:0;ls
+: 1595953061:0;cd Private_project
+: 1595953062:0;ls
+: 1595953064:0;cd Software
+: 1595953064:0;ls
+: 1595953067:0;cd ..
+: 1595953067:0;ls
+: 1595953070:0;cd ..
+: 1595953071:0;l
+: 1595953077:0;rm -rf Private_project
+: 1595953095:0;rsync -avz ~/Injamul/Private_project/ /media/injamul/INJAMUL/Private_project/
+: 1595953100:0;ls
+: 1595953102:0;cd ..
+: 1595953103:0;ls
+: 1595953106:0;cd Private_project
+: 1595953106:0;ls
+: 1595953108:0;cd Software
+: 1595953109:0;ls
+: 1595953111:0;cd Zoom
+: 1595953111:0;ls
+: 1595953119:0;chmod +x zoom.py
+: 1595953120:0;sl
+: 1595953138:0;ls
+: 1595953144:0;chmod +x zoom.py
+: 1595953146:0;ls
+: 1595953149:0;cd ..
+: 1595953150:0;ls
+: 1595953154:0;ls -la
+: 1595953167:0;ls
+: 1595953174:0;sl
+: 1595953332:0;ls
+: 1595953334:0;cd sherlock
+: 1595953335:0;ls
+: 1595953351:0;python sherlock.py
+: 1595953357:0;python3 sherlock.py
+: 1595953371:0;pip install -r requirements.txt
+: 1595953493:0;cd ~/Works/scripts
+: 1595953494:0;ls
+: 1595953498:0;ls kali
+: 1595953505:0;ls
+: 1595953514:0;ls python/
+: 1595953521:0;ls ba
+: 1595953522:0;ls bash
+: 1595953535:0;cd ..
+: 1595953536:0;ls
+: 1595953549:0;cp scripts ~/Injamul/Private_project
+: 1595953552:0;cp scripts ~/Injamul/Private_project -rf
+: 1595953556:0;exit
+: 1595953588:0;echo 'rsync -avz ~/Injamul/Private_project/ /media/injamul/INJAMUL/Private_project/' >> readme.txt
+: 1595953589:0;ls
+: 1595953596:0;mv readme.txt ..
+: 1595953597:0;ls
+: 1595953598:0;cd ..
+: 1595953599:0;ls
+: 1595953601:0;cat readme.txt
+: 1595953611:0;rsync -avz ~/Injamul/Private_project/ /media/injamul/INJAMUL/Private_project/
+: 1595953631:0;python3 sherlock.py
+: 1595953641:0;python3 sherlock.py -h
+: 1595953647:0;python3 sherlock.py mrinjamul
+: 1595953659:0;cd ..
+: 1595953661:0;ls
+: 1595953665:0;cd scripts
+: 1595953666:0;ls
+: 1595953670:0;mkdir old 
+: 1595953678:0;ls
+: 1595953687:0;mv bash old
+: 1595953693:0;mv bat old
+: 1595953698:0;mv kali old
+: 1595953704:0;mv others old
+: 1595953708:0;mv python old
+: 1595953714:0;mv sh old
+: 1595953718:0;mv tmp old
+: 1595953724:0;mv vbs old
+: 1595953724:0;ls
+: 1595953727:0;rm -rf tutorials
+: 1595953741:0;mkdir myscripts
+: 1595953742:0;ls
+: 1595953749:0;mdkir WIP
+: 1595953754:0;mkdir WIP
+: 1595953755:0;l
+: 1595953758:0;cd old
+: 1595953758:0;ls
+: 1595953763:0;ls tmp
+: 1595953766:0;ls tmp/4080362/foo.sh
+: 1595953775:0;cat tmp/4080362/foo.sh
+: 1595953779:0;rm -rf tmp
+: 1595953780:0;ls
+: 1595953783:0;ls vbs
+: 1595953788:0;rm vbs
+: 1595953795:0;rm -rf vbs
+: 1595953795:0;ls
+: 1595953797:0;ls sh
+: 1595953804:0;rm -rf sh
+: 1595953805:0;l
+: 1595953807:0;ld
+: 1595953809:0;ls
+: 1595953811:0;ls python
+: 1595953820:0;ls others
+: 1595953832:0;cat python/stego.py
+: 1595953843:0;rm -rf python
+: 1595953844:0;ls
+: 1595953847:0;ls others
+: 1595953852:0;ls others/virus
+: 1595953863:0;mv others/virus ..
+: 1595953864:0;ls
+: 1595953878:0;mv ../virus others
+: 1595953878:0;ls
+: 1595953893:0;mv others/virus .
+: 1595953894:0;ls
+: 1595953897:0;ls others
+: 1595953911:0;rm -rf others
+: 1595953911:0;ls
+: 1595953913:0;ls kali
+: 1595953931:0;mv kali/* .
+: 1595953932:0;ls
+: 1595953934:0;rm kali
+: 1595953937:0;rmdir kali
+: 1595953938:0;ls
+: 1595953942:0;ls ba
+: 1595953944:0;ls bat
+: 1595953951:0;mv bat/* .
+: 1595953955:0;rmdir bat
+: 1595953956:0;ls
+: 1595953959:0;ls bash
+: 1595953962:0;cd bash
+: 1595953962:0;ls
+: 1595953971:0;cat isInstalled.sh
+: 1595953978:0;ls
+: 1595953985:0;mv isInstalled.sh ..
+: 1595953986:0;ls
+: 1595953998:0;mv reverse-string.sh ..
+: 1595954001:0;cat recursive-tree.sh
+: 1595954008:0;./recursive-tree.sh
+: 1595954024:0;./recursive-tree.sh 12
+: 1595954028:0;ls
+: 1595954032:0;mv recursive-tree.sh ..
+: 1595954032:0;ls
+: 1595954040:0;mv rot13.sh ..
+: 1595954041:0;ls
+: 1595954046:0;cat calc.sh
+: 1595954053:0;mv calc.sh ..
+: 1595954053:0;ls
+: 1595954063:0;cat encrypter-decrypter.sh
+: 1595954067:0;mv encrypter-decrypter.sh ..
+: 1595954067:0;ls
+: 1595954073:0;cat password-creator.sh
+: 1595954079:0;cp password-creator.sh ..
+: 1595954080:0;ls
+: 1595954088:0;cat new.sh
+: 1595954091:0;ls
+: 1595954092:0;cat export.txt
+: 1595954100:0;ls
+: 1595954122:0;mv password-creator.sh ..
+: 1595954123:0;ls
+: 1595954132:0;cat color-output.sh
+: 1595954148:0;cd ..
+: 1595954149:0;ls
+: 1595954153:0;rm -rf bash
+: 1595954154:0;ls
+: 1595954158:0;ls lscript.zip
+: 1595954164:0;unzip lscript.zip
+: 1595954165:0;ls
+: 1595954166:0;cd lscript
+: 1595954167:0;ls
+: 1595954171:0;cd ..
+: 1595954171:0;ls
+: 1595954180:0;mv lscript ../../Software
+: 1595954185:0;cd ../../Software
+: 1595954186:0;ls
+: 1595954188:0;cd lscript
+: 1595954188:0;ls
+: 1595954195:0;cat install.sh
+: 1595954200:0;ls
+: 1595954201:0;cd ..
+: 1595954202:0;ls
+: 1595954208:0;rm -rf lscript
+: 1595954209:0;ls
+: 1595954211:0;cd ..
+: 1595954211:0;ls
+: 1595954213:0;cd scripts
+: 1595954214:0;ls
+: 1595954218:0;rsync -avz ~/Injamul/Private_project/ /media/injamul/INJAMUL/Private_project/
+: 1595954228:0;rsync -avz ~/Injamul/Private_project/ /media/injamul/INJAMUL/Private_project/ --delete
+: 1595954253:0;du -lh .
+: 1595954269:0;du -lh ~/Injamul/Private_project
+: 1595954273:0;ls
+: 1595954275:0;cd old
+: 1595954275:0;ls
+: 1595954282:0;./rot13.sh
+: 1595954313:0;cp rot13.sh ../
+: 1595954314:0;ls
+: 1595954332:0;cd ..
+: 1595954333:0;ls
+: 1595954341:0;mv rot13.sh myscripts
+: 1595954341:0;ls
+: 1595954464:0;echo 'rsync -avz --delete ~/Injamul/Private_project/ /media/injamul/INJAMUL/Private_project/' >> readme.txt
+: 1595954465:0;ls
+: 1595954474:0;cp readme.txt ~/Injamul/Private_project
+: 1595954475:0;ls
+: 1595954480:0;cd ..
+: 1595954481:0;ls
+: 1595954483:0;cat readme.txt
+: 1595954689:0;ls
+: 1595955201:0;cd Injamul/Private_project
+: 1595955203:0;l
+: 1595955206:0;cd scripts/l
+: 1595955208:0;cd scripts/
+: 1595955209:0;ls
+: 1595955223:0;nano pingsweep.sh
+: 1595955343:0;exit
+: 1595955442:0;ls
+: 1595955446:0;cd scripts/myscripts
+: 1595955446:0;ls
+: 1595955449:0;cd ..
+: 1595955449:0;ls
+: 1595955452:0;ls old
+: 1595955466:0;cp ip* ./myscripts
+: 1595955480:0;cp ../old/ip* ./myscripts
+: 1595955487:0;cp ./old/ip* ./myscripts
+: 1595955490:0;cd myscripts
+: 1595955490:0;ls
+: 1595955497:0;./ipsweep.sh
+: 1595955504:0;./ipsweep.sh 192.168.1
+: 1595955514:0;./ipscanner.py
+: 1595955517:0;ls
+: 1595955523:0;cat ipscanner.py
+: 1595955542:0;./ipscanner.py 192.168.1
+: 1595955546:0;rm ip
+: 1595955548:0;rm ipscanner.py
+: 1595955549:0;ls
+: 1595955554:0;cat iplist.txt
+: 1595955595:0;cp ~/Works/scripts/kali/ipscanner.py .
+: 1595955596:0;ls
+: 1595955600:0;cat ipscanner.py
+: 1595955633:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955640:0;python3 ipscanner.py 192.168.1 -f somefile.txt
+: 1595955646:0;./ipscanner.py 192.168.1 -f somefile.txt
+: 1595955661:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955687:0;nano ipscanner.py
+: 1595955692:0;vim ipscanner.py
+: 1595955722:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955727:0;vim ipscanner.py
+: 1595955757:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955797:0;vim ipscanner.py
+: 1595955856:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955875:0;vim ipscanner.py
+: 1595955900:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955912:0;vim ipscanner.py
+: 1595955932:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955935:0;vim ipscanner.py
+: 1595955943:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955959:0;vim ipscanner.py
+: 1595955985:0;python ipscanner.py 192.168.1 -f somefile.txt
+: 1595955987:0;ls
+: 1595955991:0;./ipscanner.py
+: 1595955995:0;ls
+: 1595955999:0;cat iplist.txt
+: 1595956003:0;	rm iplist.txt
+: 1595956008:0;ls
+: 1595956014:0;mv ipscanner.py ../WIP
+: 1595956015:0;l
+: 1595956017:0;./ipsweep.sh
+: 1595956023:0;./ipsweep.sh 192.168.1
+: 1595956056:0;nmap 192.168.1.1/24
+: 1595956133:0;cd ../../Software
+: 1595956137:0;clone-it git@github.com:Naategh/PyCk.git
+: 1595956193:0;clone-it git@github.com:areebbeigh/hacker-scripts.git
+: 1595956304:0;clone-it git@github.com:AttaFarhan/ash-Python-hacking-scripts-for-beginners.git
+: 1595956322:0;mv ash-Python-hacking-scripts-for-beginners PyCkv1.1
+: 1595956457:0;tree PyCk
+: 1595956458:0;ls
+: 1595956633:0;up
+: 1595956642:0;up.sh
+: 1595956651:0;cat ../readme.txt
+: 1595956692:0;echo '#!/bin/bash' >> ~/.bin/up.sh
+: 1595956696:0;echo '' >> ~/.bin/up.sh
+: 1595956718:0;cat ../readme.txt >> ~/.bin/up.sh
+: 1595956722:0;up.sh
+: 1595956734:0;chmod +x ~/.bin/up.sh
+: 1595956735:0;up.sh
+: 1595956765:0;cat ../../readme.txt
+: 1595956897:0;sudo wireshark
+: 1595964280:0;chmod 777 scan-1.pcapng 
+: 1595964285:0;sudo chmod 777 scan-1.pcapng 
+: 1595964296:0;sudo chown $USER scan-1.pcapng
+: 1595964310:0;gtk-launch scan-1.pcapng
+: 1595964505:0;ls
+: 1595964531:0;mv scan-\$\(date\ -I\).pcapng.gz scan-$(date -I).pcapng.gz 
+: 1595964534:0;ls
+: 1595964556:0;mv scan-2020-07-29.pcapng.gz temp
+: 1595964768:0;ls
+: 1595964770:0;exit
+: 1595964814:0;ls
+: 1595964815:0;pwd
+: 1595965474:0;python3 sherlock.py --help
+: 1595965574:0;python3 sherlock.py mrinjamul -o sherlock-scan-$(date -I)
+: 1595965769:0;ls
+: 1595965773:0;cd ..
+: 1595965774:0;ls
+: 1595965778:0;cd ..
+: 1595965779:0;ks
+: 1595965780:0;ls
+: 1595965788:0;cd W
+: 1595965789:0;cd Works
+: 1595965790:0;ls
+: 1595965831:0;sudo apt-get install ruby2.7
+: 1595965898:0;cd Software
+: 1595965906:0;git clone git@github.com:digininja/pipal.git
+: 1595965969:0;ping www.google.com
+: 1595965980:0;git clone git@github.com:digininja/pipal.git
+: 1595966167:0;clone-it git@github.com:digininja/CeWL.git
+: 1595966187:0;cd pipal
+: 1595966188:0;ls
+: 1595966199:0;ruby pipal.rb --help
+: 1595966321:0;ruby pipal.rb --top 500 --output result-$(date -I).pipal ../password-$(date -I).txt
+: 1595966331:0;ls
+: 1595966615:0;git clone git@github.com:tokyoneon/1wordlist.git
+: 1595966714:0;ls
+: 1595966739:0;git clone git@github.com:digininja/GitHunter.git
+: 1595966802:0;git clone git@github.com:digininja/RSYaba.git
+: 1595966924:0;works-to-pendrive.sh ls
+: 1595967152:0;cd sherlock
+: 1595967157:0;git pull origin master
+: 1595967180:0;git diff 
+: 1595967196:0;git reset --hard
+: 1595967202:0;git pull origin master
+: 1595967210:0;ls
+: 1595967232:0;exit
+: 1595967242:0;ls
+: 1595967262:0;cat mrinjamul.txt
+: 1595967265:0;ls
+: 1595967274:0;cat mrinjamul.txt
+: 1595967278:0;git status
+: 1595967286:0;cat sherlock-scan-2020-07-29
+: 1595967291:0;rm sherlock-scan-2020-07-29
+: 1595967292:0;ls
+: 1595967295:0;rm mrinjamul.txt
+: 1595967297:0;ls
+: 1595967308:0;cd sherlock
+: 1595967309:0;ls
+: 1595967320:0;python3 sherlock.py
+: 1595967324:0;python3 sherlock.py --help
+: 1595967338:0;python3 sherlock.py mrinjamul -o sherlock-scan-$(date -I)
+: 1595967353:0;ls
+: 1595967356:0;git status
+: 1595967360:0;cat result-2020-07-29.pipal
+: 1595967365:0;rm result-2020-07-29.pipal
+: 1595967365:0;ls
+: 1595967515:0;Dragon
+: 1595967602:0;git clone git@github.com:sundowndev/PhoneInfoga.git
+: 1595967642:0;ping -c 10 www.google.com
+: 1595967665:0;git remote -v
+: 1595967701:0;ls
+: 1595967706:0;exit
+: 1595967728:0;ls
+: 1595967743:0;cd PyCk
+: 1595967743:0;ls
+: 1595967751:0;cd Malware
+: 1595967753:0;ls
+: 1595967756:0;cat linux-keylogger.py
+: 1595967793:0;cat malware-cmd.py
+: 1595967803:0;ls
+: 1595967807:0;cd ..
+: 1595967808:0;ls
+: 1595967819:0;cat Cryptography/crypto.py
+: 1595967850:0;ls
+: 1595967853:0;ls Web
+: 1595967867:0;cd Exploits
+: 1595967868:0;ls
+: 1595967874:0;cat shellshock.py
+: 1595967888:0;cd ..
+: 1595967888:0;ls
+: 1595967893:0;cd ..
+: 1595967893:0;ls
+: 1595968384:0;cd PhoneInfoga
+: 1595968385:0;ls
+: 1595968392:0;ls scripts
+: 1595968415:0;go get
+: 1595968459:0;ls
+: 1595968465:0;go build
+: 1595968476:0;cd scripts
+: 1595968477:0;;d
+: 1595968478:0;ld
+: 1595968480:0;ls
+: 1595968482:0;cat format.sh
+: 1595968488:0;ls
+: 1595968490:0;cat docker_push.sh
+: 1595968492:0;cd ..
+: 1595968494:0;ls
+: 1595968506:0;cat README.md
+: 1595968546:0;ls
+: 1595968548:0;cd ..
+: 1595968548:0;ls
+: 1595968571:0;mkdir others
+: 1595968575:0;mv ca_setup_3528194934.exe others
+: 1595968580:0;mv carrier.jpg others
+: 1595968580:0;ls
+: 1595968587:0;mv stego.* others
+: 1595968588:0;ls
+: 1595968601:0;cd ..
+: 1595968602:0;ls
+: 1595968604:0;exit
+: 1595968606:0;ls
+: 1595968833:0;l
+: 1595968955:0;up.sh
+: 1595969010:0;l
+: 1596002734:0;Dragon
+: 1596002810:0;exit
+: 1596002815:0;ping -c 10 www.google.com
+: 1596002838:0;exit
+: 1596002852:0;ls
+: 1596002855:0;exit
+: 1596002858:0;ls
+: 1596002862:0;cd knock
+: 1596002862:0;ls
+: 1596002867:0;git branch -a
+: 1596002887:0;git pull origin 4.1
+: 1596002912:0;cat knockpy/wordlist/wordlist.txt
+: 1596002923:0;du -h knockpy/wordlist/wordlist.txt
+: 1596002935:0;cp knockpy/wordlist/wordlist.txt ..
+: 1596002936:0;ls
+: 1596002941:0;git checkout master
+: 1596002945:0;git pull origin master
+: 1596002958:0;git checkout 4.1
+: 1596002961:0;git fetch
+: 1596002965:0;ls
+: 1596002966:0;cd ..
+: 1596002966:0;l
+: 1596002971:0;cd pipal
+: 1596002971:0;ls
+: 1596003000:0;ruby pipal.rb --top 500 --output result-$(date -I).pipal ../wordlist.txt
+: 1596003017:0;cat result-2020-07-29.pipal
+: 1596003076:0;ll
+: 1596003092:0;mv result-2020-07-29.pipal ..
+: 1596003094:0;cd ..
+: 1596003095:0;ks
+: 1596003096:0;ls
+: 1596003129:0;git branch -a
+: 1596003138:0;ls
+: 1596003142:0;cd knockpy
+: 1596003142:0;ls
+: 1596003149:0;python knockpy.py
+: 1596003155:0;python knockpy.py --help
+: 1596003185:0;python knockpy.py mrasif.com
+: 1596006245:0;bash
+: 1596006306:0;ls
+: 1596006355:0;crunch  3 5 abcdefghijklmnopqrstuvwxyz1234567890 -o ../wordlist1.txt
+: 1596006689:0;ls
+: 1596006701:0;git status
+: 1596006710:0;cd ..
+: 1596006712:0;ls
+: 1596006717:0;mv wordlist1.txt ..
+: 1596006718:0;ls
+: 1596006722:0;git status -s
+: 1596006730:0;cd ..
+: 1596006731:0;ls
+: 1596006738:0;mkdir wordlists
+: 1596006745:0;mv wordlist*.txt wordlist
+: 1596006747:0;mv wordlist*.txt wordlists
+: 1596006748:0;ls
+: 1596006754:0;mv wordlists ..
+: 1596006755:0;ls
+: 1596006763:0;mkdir results
+: 1596006770:0;mv results results
+: 1596006780:0;mv result-2020-07-29.pipal results
+: 1596006781:0;ls
+: 1596006784:0;ls results
+: 1596006832:0;ls
+: 1596006848:0;cd ..
+: 1596006848:0;ls
+: 1596006867:0;ls 1wordlist/`
+: 1596006869:0;ls
+: 1596006881:0;cd Zoom
+: 1596006882:0;ls
+: 1596006885:0;python zoom.py
+: 1596006889:0;python3 zoom.py
+: 1596006894:0;python zoom.py
+: 1596006921:0;pip install requests
+: 1596006980:0;python -m pip
+: 1596007021:0;python3 -m pip  install --upgrade pip
+: 1596007043:0;sudo apt-get update
+: 1596007061:0;sudo apt-get upgrade
+: 1596007066:0;sudo apt-get full-upgrade
+: 1596007072:0;cd ..
+: 1596007073:0;ls
+: 1596007080:0;cd hacker-scripts
+: 1596007080:0;ls
+: 1596007086:0;cat hs-help.py
+: 1596007148:0;ls
+: 1596007156:0;python hs-help.py
+: 1596007165:0;ls
+: 1596007174:0;cat hs-start.py
+: 1596007181:0;cd ..
+: 1596007181:0;ls
+: 1596007212:0;cd knock
+: 1596007212:0;ls
+: 1596007215:0;cd knockpy
+: 1596007216:0;ls
+: 1596007220:0;cd ..
+: 1596007220:0;ls
+: 1596007225:0;cd ../..
+: 1596007230:0;ls
+: 1596007239:0;cd Software
+: 1596007240:0;ls
+: 1596007280:0;git clone git@github.com:crunchsec/crunch.git
+: 1596007298:0;ls
+: 1596007313:0;cd crunch
+: 1596007313:0;ls
+: 1596007317:0;./crunch.1
+: 1596007325:0;chmod +x charset.lst
+: 1596007331:0;chmod -x charset.lst
+: 1596007332:0;ls
+: 1596007346:0;cat charset.lst
+: 1596007364:0;ls
+: 1596007369:0;cat crunch.1
+: 1596007424:0;ls
+: 1596007444:0;gcc crunch.c
+: 1596007454:0;gcc crunch.c -w
+: 1596007457:0;ls
+: 1596007462:0;make
+: 1596007465:0;ls
+: 1596007468:0;./crunch
+: 1596007579:0;./crunch 3 6 abc -o wordlist1.txt
+: 1596007588:0;cat wordlist1.txt
+: 1596007595:0;cd ..
+: 1596007599:0;rm -rf crunch
+: 1596007600:0;ls
+: 1596007627:0;mv ~/Downloads/Compressed/crunch .
+: 1596007628:0;ls
+: 1596007630:0;cd crunch
+: 1596007632:0;git init
+: 1596007644:0;git add .
+: 1596007663:0;git commit -S -m "add crunch"
+: 1596007666:0;make
+: 1596007668:0;ls
+: 1596007672:0;git add .
+: 1596007674:0;git status -s
+: 1596007685:0;git add .
+: 1596007699:0;git commit -m "compiled crunch"
+: 1596007700:0;ls
+: 1596007739:0;./crunch --help
+: 1596007802:0;./crunch 3 5 abcdefghijklmnopqrstuvwxyz wordlist-1.txt
+: 1596007812:0;./crunch 3 5 abcdefghijklmnopqrstuvwxyz -o wordlist-1.txt
+: 1596007820:0;ls
+: 1596007824:0;mv wordlist-1.txt ..
+: 1596007825:0;;s
+: 1596007827:0;ls
+: 1596007834:0;cd ..
+: 1596007835:0;ls
+: 1596007837:0;rm wordlist-1.txt
+: 1596007837:0;ls
+: 1596007848:0;cd c
+: 1596007854:0;cd crunch
+: 1596007854:0;ls
+: 1596007864:0;cat COPYING
+: 1596007865:0;ls
+: 1596007876:0;cat README.md
+: 1596007891:0;ls
+: 1596008004:0;cd ..
+: 1596008005:0;ls
+: 1596008345:0;?
+: 1596008761:0;exit
+: 1596008765:0;ls
+: 1596008766:0;pwd
+: 1596008769:0;cd ..
+: 1596008770:0;ls
+: 1596008771:0;cd Private_project
+: 1596008772:0;ls
+: 1596008786:0;up.sh
+: 1596008839:0;cd ../Downloads
+: 1596008840:0;ls
+: 1596008845:0;cd ../Documents/
+: 1596008846:0;ls
+: 1596008847:0;cd Private-project
+: 1596008848:0;ls
+: 1596008852:0;cat NOREADME.md
+: 1596008863:0;ls AI
+: 1596008868:0;ls newidentity
+: 1596008872:0;cd newidentity
+: 1596008872:0;ls
+: 1596008874:0;cat email.txt
+: 1596008879:0;cat Name.txt
+: 1596008882:0;cd ..
+: 1596008882:0;ls
+: 1596008885:0;cd project
+: 1596008895:0;cd project01
+: 1596008898:0;ls
+: 1596008904:0;cd ..
+: 1596008905:0;ls
+: 1596008907:0;cd project
+: 1596008909:0;cd project02
+: 1596008910:0;ls
+: 1596008917:0;cd ../project-rot
+: 1596008918:0;;s
+: 1596008918:0;ls
+: 1596008927:0;cat index.txt
+: 1596008932:0;ls
+: 1596008940:0;cat README.md
+: 1596008943:0;cd ..
+: 1596008943:0;ls
+: 1596008947:0;cd browser
+: 1596008947:0;ls
+: 1596008951:0;cd firefox
+: 1596008952:0;ls
+: 1596008957:0;./firefox
+: 1596009006:0;exit
+: 1596009201:0;sudo apt-get upgrade
+: 1596009205:0;sudo apt-get update
+: 1596009215:0;sudo apt-get upgrade
+: 1596009220:0;sudo apt-get full-upgrade
+: 1596009224:0;reboot
+: 1596009519:0;ls
+: 1596009550:0;l
+: 1596009629:0;ls
+: 1596009634:0;pip 
+: 1596009739:0;sudo apt-get install python2.7
+: 1596009747:0;sudo apt-get install python-pip
+: 1596009760:0;sudo apt-get install python2.7-pip
+: 1596009779:0;sudo apt-get install python-setuptools
+: 1596009795:0;ls
+: 1596009838:0;sudo apt-get install python2.7-minimal
+: 1596009843:0;sudo apt-get install python2.7-*
+: 1596009847:0;sudo apt-get install python2.7*
+: 1596009853:0;sudo apt-get install python2.7-dev
+: 1596009920:0;sudo apt-get install python-pip
+: 1596009942:0;sudo apt-get install python-pipx
+: 1596009980:0;Reading state information... Done\
+E: Unable to locate package python-pip
+: 1596009992:0;sudo apt-get install software-properties-common\
+sudo apt-add-repository universe\
+sudo apt-get update
+: 1596010013:0;sudo apt-get install python-pip
+: 1596010039:0;sudo apt-get update && sudo apt-get install python-pip
+: 1596010096:0;sudo apt-get install python3-pip
+: 1596010149:0;sudo add-apt-repository universe
+: 1596010155:0;sudo apt install python2
+: 1596010164:0;curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
+: 1596010191:0;sudo python2 get-pip.py
+: 1596010227:0;pip2 scapy
+: 1596010232:0;pip2 install scapy
+: 1596010241:0;pip2 install requests
+: 1596010296:0;cd Injamul/Software
+: 1596010297:0;ls
+: 1596010302:0;cd ../Private_project
+: 1596010302:0;ls
+: 1596010306:0;cd Software/Zoom
+: 1596010307:0;ls
+: 1596010311:0;python zoom.py
+: 1596010328:0;cat zoom.py
+: 1596010355:0;pip2 install DNSDumpsterAPI
+: 1596010387:0;python -m pip2 install --upgrade pip2
+: 1596010392:0;ls
+: 1596010415:0;cat zoom.py
+: 1596010432:0;pip2 install argparse
+: 1596010450:0;pip2 install re
+: 1596010455:0;ls
+: 1596010464:0;python2 zoom.py
+: 1596010470:0;python2 zoom.py --help
+: 1596010517:0;sudo pip install --upgrade pip
+: 1596010543:0;sudo pip2 install --upgrade pip
+: 1596010572:0;pip2 install beautifulsoup4
+: 1596010590:0;pip install soupsieve
+: 1596010602:0;pip2 install soupsieve
+: 1596010619:0;ls
+: 1596010634:0;pip -v
+: 1596010643:0;pip version
+: 1596010646:0;pip --version
+: 1596010653:0;pip2 --version
+: 1596010664:0;pip3 --version
+: 1596010668:0;pip --version
+: 1596010693:0;exit
+: 1596012019:0;ping 25.43.102.126
+: 1596012036:0;nmap 25.43.102.126
+: 1596012048:0;ssh 25.43.102.126
+: 1596014275:0;ls
+: 1596015723:0;nc
+: 1596016052:0;cd Injamul/Private_project
+: 1596016053:0;ls
+: 1596016056:0;cd scripts
+: 1596016056:0;ls
+: 1596016060:0;cd myscripts
+: 1596016063:0;wget https://raw.githubusercontent.com/xd4rker/ROTcrypt/master/rotcrypt.sh
+: 1596016067:0;ls
+: 1596016076:0;chmod +x rotcrypt.sh
+: 1596016082:0;./rotcrypt.sh --help
+: 1596016093:0;./rotcrypt.sh "Hi"
+: 1596016097:0;./rotcrypt.sh -d "Hi"
+: 1596016106:0;./rotcrypt.sh -d "Hi" -v
+: 1596016145:0;./rotcrypt.sh help
+: 1596016168:0;./rotcrypt.sh -h
+: 1596016230:0;ls
+: 1596016256:0;./rotcrypt.sh -e "Injamul" -v
+: 1596016258:0;./rotcrypt.sh -e "Injamul"
+: 1596016266:0;./rotcrypt.sh -d "Injamul" -v
+: 1596016293:0;./rotcrypt.sh -d "vawnzhy" -v
+: 1596016303:0;./rotcrypt.sh -d "Injamul" -v | grep
+: 1596016309:0;./rotcrypt.sh -d "Injamul" -v | grep Injamul
+: 1596016322:0;./rotcrypt.sh -d "vawnzhy" -v | grep "Injamul"
+: 1596016325:0;ls
+: 1596016336:0;./rotcrypt.sh 13 -d "vawnzhy"
+: 1596016378:0;./rotcrypt.sh 1 -d "vawnzhy"
+: 1596016391:0;./rotcrypt.sh 1 -d "Hi\
+"
+: 1596016400:0;./rotcrypt.sh 1 -d "Hi"\
+"
+: 1596016404:0;./rotcrypt.sh 1 -d "Hi"
+: 1596016411:0;./rotcrypt.sh 1 -d "Hi" -v
+: 1596016416:0;./rotcrypt.sh 24 -d "Hi" -v
+: 1596016426:0;./rotcrypt.sh 24 -d -v "Hi" 
+: 1596016429:0;./rotcrypt.sh -d -v "Hi" 
+: 1596016435:0;./rotcrypt.sh -d "Hi"  -v
+: 1596016457:0;ls
+: 1596016559:0;wget https://raw.githubusercontent.com/viorage/Base64-and-Rot1-25-Decoder/master/decoder.sh
+: 1596016582:0;chmod +x decoder.sh
+: 1596016583:0;./decoder.sh
+: 1596016592:0;./decoder.sh "Injamul"
+: 1596016624:0;./decoder.sh Hmizltk
+: 1596016652:0;base64 Injamul
+: 1596016658:0;base64 --help
+: 1596016681:0;echo -n "Injamul" | base64
+: 1596016699:0;./decoder.sh SW5qYW11bA==
+: 1596016715:0;ls
+: 1596017031:0;cd ~/Works/scripts/tmp
+: 1596017034:0;git clone https://github.com/alik604/chrome-password-thief.git
+: 1596017420:0;cd ../../Software
+: 1596017423:0;git clone https://github.com/be1807v/Hash-Cracker.git
+: 1596017477:0;git clone https://github.com/Datez-Kun/reverse-enginnering.git
+: 1596017641:0;tree reverse-enginnering
+: 1596017757:0;ls
+: 1596017763:0;cd ..
+: 1596017763:0;ls
+: 1596017829:0;du -lh .
+: 1596017854:0;ls wordlists
+: 1596017857:0;cd wordlists
+: 1596017862:0;du -lh .
+: 1596017866:0;./
+: 1596017869:0;du -lh ./
+: 1596017870:0;l
+: 1596017882:0;rm wordlist1.txt
+: 1596017885:0;ls
+: 1596017887:0;cat wordlist.txt
+: 1596017901:0;ls
+: 1596017917:0;mv {,subdomain-}wordlist.txt
+: 1596017918:0;ls
+: 1596018608:0;cd ..
+: 1596018623:0;cd ~/temp/diff
+: 1596018624:0;ls
+: 1596018817:0;	echo 'tree  ~/Injamul/Private_project >> p1.txt ; tree /media/injamul/INJAMUL/Private_project  >> p2.txt; diff p1.txt p2.txt; rm p*.txt;' >> diff.sh
+: 1596018843:0;	tree  ~/Injamul/Private_project >> p1.txt ; tree /media/injamul/INJAMUL/Private_project  >> p2.txt; diff p1.txt p2.txt; rm p*.txt;
+: 1596018864:0;	tree  ~/Injamul/Private_project > p1.txt ; tree /media/injamul/INJAMUL/Private_project  > p2.txt; diff p1.txt p2.txt; rm p*.txt;
+: 1596018869:0;ls
+: 1596019026:0;	sed -i '1i \#!/bin/bash' diff.sh
+: 1596019030:0;nano diff.sh
+: 1596019047:0;sed -i '1i \ ' diff.sh
+: 1596019493:0;tree 
+: 1596020047:0;shotwell Software/sherlock/images/sherlock_demo.gif
+: 1596020193:0;ls
+: 1596020208:0;crunch 3 6 abc 
+: 1596020215:0;ls
+: 1596021922:0;umount /media/injamul/INJAMUL
+: 1596021971:0;lynx google.com
+: 1596024127:0;ls
+: 1596024160:0;mkdir passwords
+: 1596024185:0;cd /mnt/Storage/Documents/Identities
+: 1596024186:0;;s
+: 1596024187:0;ls
+: 1596024201:0;ls open-user
+: 1596024205:0;cd open-user
+: 1596024209:0;cat users.txt
+: 1596024215:0;cd ..
+: 1596024216:0;ls
+: 1596024219:0;cd ..
+: 1596024219:0;ls
+: 1596024263:0;cat Identities/open-user/Users/Users.txt 
+: 1596024280:0;ls Identities
+: 1596024288:0;tree Identities
+: 1596024331:0;cp Identities ~/Injamul/Private_project
+: 1596024334:0;cp Identities ~/Injamul/Private_project -r
+: 1596024337:0;exit
+: 1596024339:0;ls
+: 1596024344:0;cd Identities
+: 1596024344:0;ls
+: 1596024358:0;cd own
+: 1596024359:0;ls
+: 1596024362:0;cat users.txt
+: 1596024369:0;cat Users/injamulmd.txt
+: 1596024375:0;cat Users/mrinjamul.txt
+: 1596024390:0;cd ..
+: 1596024394:0;ls
+: 1596024402:0;cat readme.txt
+: 1596024439:0;cp ~/.bin/up.sh scripts
+: 1596024456:0;ls
+: 1596024498:0;./scripts/diff.sh
+: 1596024502:0;cd scripts
+: 1596024503:0;ls
+: 1596024508:0;chmod +x diff.sh
+: 1596024510:0;cat diff.sh
+: 1596024520:0;./diff.sh
+: 1596024538:0;ls
+: 1596026044:0;lynx google.com
+: 1596026317:0;links
+: 1596029653:0;./diff.sh
+: 1596029666:0;nano diff.sh
+: 1596029674:0;./diff.sh
+: 1596029708:0;nano diff.sh
+: 1596029722:0;./diff.sh
+: 1596029916:0;ls
+: 1596029921:0;./diff.sh
+: 1596029938:0;ls
+: 1596030367:0;cd ..
+: 1596030369:0;ls
+: 1596030439:0;cat /tmp/p1.txt /tmp/p2.txt 
+: 1596030506:0;ls
+: 1596030528:0;l
+: 1596030633:0;ll
+: 1596030638:0;cd usr
+: 1596030638:0;ls
+: 1596030639:0;ll
+: 1596030641:0;cd lib
+: 1596030642:0;ll
+: 1596030644:0;ls
+: 1596030648:0;cd firmware
+: 1596030649:0;ll
+: 1596030658:0;cd ../
+: 1596030664:0;rm -rf usr
+: 1596030672:0;exit
+: 1596031375:0;ls
+: 1596031383:0;cat readme.txt
+: 1596031399:0;echo > readme.txt
+: 1596031401:0;cat readme.txt
+: 1596031457:0;cd scripts
+: 1596031459:0;ls
+: 1596031463:0;cat myscripts
+: 1596031466:0;cat myscripts/rot13.sh
+: 1596031538:0;cp ~/.zsh_history{,.old}
