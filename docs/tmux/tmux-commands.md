@@ -13,7 +13,7 @@
 - dettach from tmux : ctrl + b then d
 
 ### Commands:
-- attach to a sessions : `tmux attach -t [session_name]`
+- attach to a sessions : `tmux attach -t [session_name]` or `tmux a -t [session_name]`
 - start new sessions : `tmux new -s [session_name]`
 - delete a session: `tmux kill-session -t [session_name]`
 - list sessions : `tmux list-sessions`
@@ -27,6 +27,7 @@
 ctrl + b then type
 
 Resize window:
+
 `:resize-pane -D [cell_size]` (Resizes the current pane down by 1 cell)
 
 `:resize-pane -U [cell_size]` (Resizes the current pane upward by 1 cell)
