@@ -1,12 +1,3 @@
-" Injamul Mohammad Mollah
-
-" Install if vim-plugin manager is not installed
-if empty(glob('~/.vim/autoload/plug.vim'))
-  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
-    \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
-endif
-
 call plug#begin('~/.vim/plugged')
 
 " Window chooser
@@ -39,6 +30,21 @@ Plug 'scrooloose/syntastic'
 
 " Git tool
 Plug 'tpope/vim-fugitive'
+
+" fuzzy file finder
+Plug 'ctrlpvim/ctrlp.vim'
+
+" vim-rainbow brackets highlighter
+Plug 'frazrepo/vim-rainbow'
+
+" find in a file 
+Plug 'mileszs/ack.vim'
+
+" show what changed in git repo
+Plug 'vim-scripts/vim-gitgutter'
+
+" Tag Lists
+Plug 'vim-scripts/taglist.vim'
 
 " post install (yarn install | npm install) then load plugin only for editing supported files
 Plug 'prettier/vim-prettier', {
