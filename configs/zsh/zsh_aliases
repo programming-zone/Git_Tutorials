@@ -1,0 +1,11 @@
+#Custom Aliases
+  
+#Request confirmation before deleting a file
+#alias rm='rm -i'
+#Installing packages without sudo 
+alias APT='sudo apt'
+# Terminal screen lock
+alias lock-terminal='cmatrix'
+# Git Clone
+alias clone-it='git clone'
+
