@@ -25,6 +25,9 @@ Plug 'othree/yajs.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 
+" HTML Plugin
+Plug 'mattn/emmet-vim'
+
 " Syntax Checker
 Plug 'scrooloose/syntastic'
 
