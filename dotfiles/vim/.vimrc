@@ -28,6 +28,12 @@ Plug 'mxw/vim-jsx'
 " Syntax Checker
 Plug 'scrooloose/syntastic'
 
+" code snippets
+Plug 'honza/vim-snippets'
+Plug 'garbas/vim-snipmate'
+Plug 'marcweber/vim-addon-mw-utils'
+
+
 " Git tool
 Plug 'tpope/vim-fugitive'
 
