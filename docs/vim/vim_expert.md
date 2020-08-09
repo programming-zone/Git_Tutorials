@@ -59,7 +59,8 @@ Simple:
   Save and Quit:
 
 - `:w` to write the file.
-- ZZ to quit vim. (as `:q!`)
+- ZQ to quit without saving (as `:q!`)
+- ZZ to quit vim. (as `:wq`)
 
 
 ### further
