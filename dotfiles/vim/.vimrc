@@ -49,6 +49,13 @@ Plug 'frazrepo/vim-rainbow'
 " find in a file 
 Plug 'mileszs/ack.vim'
 
+" Git diff modified added and removed
+if has('nvim') || has('patch-8.0.902')
+      Plug 'mhinz/vim-signify'
+  else
+        Plug 'mhinz/vim-signify', { 'branch': 'legacy'  }
+    endif
+
 " Tag Lists
 Plug 'vim-scripts/taglist.vim'
 
