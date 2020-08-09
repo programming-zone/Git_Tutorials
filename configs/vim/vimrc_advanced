@@ -90,6 +90,9 @@ call plug#end()
 nmap - <Plug>(choosewin)
 let g:choosewin_overlay_enable = 1
 
+" Show Hidden files in NERDTree
+let NERDTreeShowHidden=1
+
 let g:NERDTreeIndicatorMapCustom = {
     \ "Modified"  : "✹",
     \ "Staged"    : "✚",
