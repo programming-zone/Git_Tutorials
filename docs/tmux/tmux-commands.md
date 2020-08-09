@@ -4,14 +4,18 @@
 
 - split pane by column : ctrl + b then %
 - split pane by row : ctrl + b then "
+- last pane : ctrl + b ;
 - swap pane: ctrl + b o 
 - show panes numbers: ctrl + b q
+- display pane number: ctrl + b q
 - kill pane : ctrl + b x
 - toggle pane layouts: ctrl + b [space]
 - scroll in tmux: ctrl + b then [
 - new window : ctrl + b then c
-- previous window: ctrl + b then l
+- last (previously used) window: ctrl + b then l
 - rename a window: ctrl + b then ,
+- previous window : ctrl + b then p
+- next window : ctrl + b then n
 - list windows : ctrl + b w 
 - find window : ctrl + b f
 - move window to selected index number : ctrl + b . 
