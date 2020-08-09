@@ -134,9 +134,27 @@ More Commands:
 play a Macro
 
 - @{register} (e.g. @W)
+- @@ play last macro
+
+view a Macro
+
+- `:registers` - view macros
+-   reg
+
+appending a macro
+
+- q{register}...q 
+
 
 
 **marker**
 
 - m{register} to mark the position.
 - `{register} to go to the mark.
+
+**delete a mark**
+
+- `:delmarks a` - delete selected mark
+- `:delmarks !` - delete all marks (lowercase)
+
+
