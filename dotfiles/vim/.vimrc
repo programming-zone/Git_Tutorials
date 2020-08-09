@@ -49,9 +49,6 @@ Plug 'frazrepo/vim-rainbow'
 " find in a file 
 Plug 'mileszs/ack.vim'
 
-" show what changed in git repo
-Plug 'vim-scripts/vim-gitgutter'
-
 " Tag Lists
 Plug 'vim-scripts/taglist.vim'
 
