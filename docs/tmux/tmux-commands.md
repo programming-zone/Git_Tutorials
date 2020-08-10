@@ -56,3 +56,11 @@ Resize window:
 
 `:resize-pane -R [cell_size]` (Resizes the current pane right by 1 cell)
 
+Turn on all pane sync in tmux:
+
+    `:setw synchronize-panes on`
+
+Turn off pane sync in tmux:
+
+    `:setw synchronize-panes off`
+
