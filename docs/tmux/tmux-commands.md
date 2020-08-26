@@ -4,6 +4,7 @@
 
 - split pane by column : ctrl + b then %
 - split pane by row : ctrl + b then "
+- Zoom a pane : ctrl + b z
 - last pane : ctrl + b ;
 - swap pane: ctrl + b o 
 - show panes numbers: ctrl + b q
