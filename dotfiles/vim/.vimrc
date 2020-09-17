@@ -41,7 +41,7 @@ Plug 'marcweber/vim-addon-mw-utils'
 Plug 'tpope/vim-fugitive'
 
 " fuzzy file finder
-Plug 'ctrlpvim/ctrlp.vim'
+" Plug 'ctrlpvim/ctrlp.vim'
 
 " vim-rainbow brackets highlighter
 Plug 'frazrepo/vim-rainbow'
@@ -49,8 +49,12 @@ Plug 'frazrepo/vim-rainbow'
 " find in a file 
 Plug 'mileszs/ack.vim'
 
-" show what changed in git repo
-Plug 'vim-scripts/vim-gitgutter'
+" Git diff modified added and removed
+if has('nvim') || has('patch-8.0.902')
+      Plug 'mhinz/vim-signify'
+  else
+        Plug 'mhinz/vim-signify', { 'branch': 'legacy'  }
+    endif
 
 " Tag Lists
 Plug 'vim-scripts/taglist.vim'
@@ -82,7 +86,10 @@ call plug#end()
 nmap - <Plug>(choosewin)
 let g:choosewin_overlay_enable = 1
 
-let g:NERDTreeIndicatorMapCustom = {
+" NERDTree Show Hidden files
+" let NERDTreeShowHidden=1
+
+let g:NERDTreeGitStatusIndicatorMapCustom = {
     \ "Modified"  : "✹",
     \ "Staged"    : "✚",
     \ "Untracked" : "✭",
@@ -175,3 +182,18 @@ endfunction
 
 " Use <c-space> to trigger completion.
 inoremap <silent><expr> <c-space> coc#refresh()
+
+" Active Rainbow
+
+let g:rainbow_active = 1
+
+let g:rainbow_load_separately = [
+    \ [ '*' , [['(', ')'], ['\[', '\]'], ['{', '}']] ],
+    \ [ '*.tex' , [['(', ')'], ['\[', '\]']] ],
+    \ [ '*.cpp' , [['(', ')'], ['\[', '\]'], ['{', '}']] ],
+    \ [ '*.{html,htm}' , [['(', ')'], ['\[', '\]'], ['{', '}'], ['<\a[^>]*>', '</[^>]*>']] ],
+    \ ]
+
+let g:rainbow_guifgs = ['RoyalBlue3', 'DarkOrange3', 'DarkOrchid3', 'FireBrick']
+let g:rainbow_ctermfgs = ['lightblue', 'lightgreen', 'yellow', 'red', 'magenta']
+

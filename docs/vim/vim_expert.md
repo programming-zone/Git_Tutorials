@@ -59,7 +59,8 @@ Simple:
   Save and Quit:
 
 - `:w` to write the file.
-- ZZ to quit vim. (as `:q!`)
+- ZQ to quit without saving (as `:q!`)
+- ZZ to quit vim. (as `:wq`)
 
 
 ### further
@@ -134,9 +135,27 @@ More Commands:
 play a Macro
 
 - @{register} (e.g. @W)
+- @@ play last macro
+
+view a Macro
+
+- `:registers` - view macros
+-   reg
+
+appending a macro
+
+- q{register}...q 
+
 
 
 **marker**
 
 - m{register} to mark the position.
 - `{register} to go to the mark.
+
+**delete a mark**
+
+- `:delmarks a` - delete selected mark
+- `:delmarks !` - delete all marks (lowercase)
+
+
